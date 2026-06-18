@@ -1,0 +1,2347 @@
+activity: 
+
+raw output: {"activity": {"utc_offset": 2, "next": "/nextFitnessActivity/82586302/1781792183499", "distance": [{"distance": 0, "timestamp": 0}, {"distance": 9.192843882600627, "timestamp": 7.803}, {"distance": 18.793568147568866, "timestamp": 13.803}, {"distance": 28.670009379947476, "timestamp": 20.803}, {"distance": 38.18093337282403, "timestamp": 28.803}, {"distance": 47.476783419311545, "timestamp": 32.803}, {"distance": 57.939817632452616, "timestamp": 34.803}, {"distance": 68.9203104596092, "timestamp": 36.803}, {"distance": 78.63248552390135, "timestamp": 38.803}, {"distance": 88.61643431060722, "timestamp": 40.803}, {"distance": 99.60488621915651, "timestamp": 42.803}, {"distance": 109.66492114218714, "timestamp": 44.803}, {"distance": 119.71772510726908, "timestamp": 46.803}, {"distance": 129.80317085011833, "timestamp": 48.803}, {"distance": 140.17382864111022, "timestamp": 50.803}, {"distance": 149.5898989233094, "timestamp": 52.803}, {"distance": 159.12082632084142, "timestamp": 54.803}, {"distance": 168.64931518937814, "timestamp": 56.803}, {"distance": 178.0126952080258, "timestamp": 58.803}, {"distance": 191.32489042331915, "timestamp": 61.803}, {"distance": 203.58182370436938, "timestamp": 64.803}, {"distance": 216.28177485925903, "timestamp": 67.803}, {"distance": 228.77759350798252, "timestamp": 70.803}, {"distance": 241.71650621040823, "timestamp": 73.803}, {"distance": 254.7083997368592, "timestamp": 76.803}, {"distance": 267.78567589875735, "timestamp": 79.803}, {"distance": 279.6161021792267, "timestamp": 82.803}, {"distance": 291.2892432063316, "timestamp": 85.803}, {"distance": 303.65921278919853, "timestamp": 88.803}, {"distance": 315.7325866922783, "timestamp": 91.803}, {"distance": 328.3494971177643, "timestamp": 94.803}, {"distance": 339.9184366168906, "timestamp": 97.803}, {"distance": 351.0989985211119, "timestamp": 100.803}, {"distance": 363.1125647382421, "timestamp": 103.803}, {"distance": 375.00782425737924, "timestamp": 106.803}, {"distance": 387.4406879299827, "timestamp": 109.803}, {"distance": 399.7177771959377, "timestamp": 112.803}, {"distance": 411.8967285165088, "timestamp": 115.803}, {"distance": 424.2605998805711, "timestamp": 118.803}, {"distance": 436.50604767882146, "timestamp": 121.803}, {"distance": 449.4843375811349, "timestamp": 124.803}, {"distance": 462.8679194441042, "timestamp": 127.803}, {"distance": 476.1496107400875, "timestamp": 130.803}, {"distance": 488.7414754187383, "timestamp": 133.803}, {"distance": 501.5291268842165, "timestamp": 136.804}, {"distance": 513.1643822737911, "timestamp": 139.804}, {"distance": 525.2540076196685, "timestamp": 142.803}, {"distance": 536.65774974927, "timestamp": 145.803}, {"distance": 548.1523680137865, "timestamp": 148.803}, {"distance": 558.8380382513332, "timestamp": 151.803}, {"distance": 569.8549212861933, "timestamp": 154.803}, {"distance": 580.5752497550028, "timestamp": 157.803}, {"distance": 591.3191427361263, "timestamp": 160.803}, {"distance": 601.794430398606, "timestamp": 163.803}, {"distance": 612.1589233081281, "timestamp": 166.803}, {"distance": 623.1331242707237, "timestamp": 169.803}, {"distance": 633.9337143906904, "timestamp": 172.803}, {"distance": 644.5507026851985, "timestamp": 175.803}, {"distance": 655.5549506439066, "timestamp": 178.803}, {"distance": 666.1567838516761, "timestamp": 181.803}, {"distance": 676.8557321587547, "timestamp": 184.803}, {"distance": 687.4981892673193, "timestamp": 187.803}, {"distance": 698.4816767081196, "timestamp": 190.803}, {"distance": 709.9993343937653, "timestamp": 193.803}, {"distance": 720.819489135123, "timestamp": 196.803}, {"distance": 731.2462821630767, "timestamp": 199.803}, {"distance": 741.9153207912991, "timestamp": 202.803}, {"distance": 752.6304845478468, "timestamp": 205.803}, {"distance": 762.6252917025287, "timestamp": 208.803}, {"distance": 772.5612435816347, "timestamp": 211.803}, {"distance": 782.2023031259952, "timestamp": 214.803}, {"distance": 791.9588817000944, "timestamp": 217.803}, {"distance": 801.7923297476493, "timestamp": 220.803}, {"distance": 811.8151894633708, "timestamp": 223.802}, {"distance": 821.7511761136408, "timestamp": 226.803}, {"distance": 831.8868418854125, "timestamp": 229.803}, {"distance": 842.3726238766328, "timestamp": 232.803}, {"distance": 852.9755386404489, "timestamp": 235.803}, {"distance": 863.558035143729, "timestamp": 238.803}, {"distance": 873.8007043294247, "timestamp": 241.803}, {"distance": 884.0742859083113, "timestamp": 244.803}, {"distance": 894.4896414231281, "timestamp": 247.803}, {"distance": 905.3687225678802, "timestamp": 250.803}, {"distance": 916.4906477154168, "timestamp": 253.802}, {"distance": 927.114815974056, "timestamp": 256.803}, {"distance": 937.2804626728724, "timestamp": 259.803}, {"distance": 947.8888412984085, "timestamp": 262.803}, {"distance": 958.4897928152877, "timestamp": 265.803}, {"distance": 968.5582309004978, "timestamp": 268.803}, {"distance": 979.1710336967034, "timestamp": 272.803}, {"distance": 989.4896024439375, "timestamp": 276.803}, {"distance": 1000.4669790056859, "timestamp": 280.803}, {"distance": 1012.2746412891304, "timestamp": 284.803}, {"distance": 1022.5048167107866, "timestamp": 287.803}, {"distance": 1032.3104566046266, "timestamp": 290.803}, {"distance": 1042.6330493092448, "timestamp": 293.803}, {"distance": 1052.587884425877, "timestamp": 296.803}, {"distance": 1064.4617836792095, "timestamp": 300.802}, {"distance": 1073.9802192895397, "timestamp": 303.802}, {"distance": 1082.9382581450918, "timestamp": 306.802}, {"distance": 1092.504725390242, "timestamp": 309.802}, {"distance": 1101.4181262219456, "timestamp": 312.802}, {"distance": 1113.335436665691, "timestamp": 316.802}, {"distance": 1123.1367810582024, "timestamp": 320.802}, {"distance": 1132.7576612484422, "timestamp": 324.802}, {"distance": 1143.588496970755, "timestamp": 328.802}, {"distance": 1154.7256757367231, "timestamp": 332.802}, {"distance": 1165.3493913631187, "timestamp": 336.802}, {"distance": 1177.8605847230333, "timestamp": 340.802}, {"distance": 1187.2052016691132, "timestamp": 343.802}, {"distance": 1196.9926337349925, "timestamp": 346.802}, {"distance": 1206.3544686920955, "timestamp": 349.802}, {"distance": 1216.0716136103274, "timestamp": 352.802}, {"distance": 1226.112698268798, "timestamp": 355.802}, {"distance": 1235.2720423506369, "timestamp": 358.801}, {"distance": 1245.1349520009294, "timestamp": 361.802}, {"distance": 1254.9211183088348, "timestamp": 364.802}, {"distance": 1264.8393128215348, "timestamp": 367.802}, {"distance": 1274.6052917526622, "timestamp": 370.802}, {"distance": 1284.5014795296097, "timestamp": 373.802}, {"distance": 1294.4563300429145, "timestamp": 376.802}, {"distance": 1304.0644976037472, "timestamp": 379.802}, {"distance": 1313.6406363766685, "timestamp": 382.802}, {"distance": 1323.3394950648742, "timestamp": 385.802}, {"distance": 1333.4455870501567, "timestamp": 388.802}, {"distance": 1344.4964490823206, "timestamp": 392.802}, {"distance": 1354.871870072162, "timestamp": 395.802}, {"distance": 1363.9996705625788, "timestamp": 398.801}, {"distance": 1375.7643972247088, "timestamp": 402.802}, {"distance": 1387.476451847733, "timestamp": 406.802}, {"distance": 1396.5258763540874, "timestamp": 409.802}, {"distance": 1405.823299362474, "timestamp": 412.802}, {"distance": 1415.6960433398951, "timestamp": 415.802}, {"distance": 1425.2731742127253, "timestamp": 418.802}, {"distance": 1435.783228956651, "timestamp": 421.802}, {"distance": 1446.2606080848711, "timestamp": 424.801}, {"distance": 1456.4429434887627, "timestamp": 427.802}, {"distance": 1466.9475194465797, "timestamp": 430.802}, {"distance": 1478.3378800542791, "timestamp": 433.802}, {"distance": 1490.0884207830693, "timestamp": 436.802}, {"distance": 1502.0271974023804, "timestamp": 439.802}, {"distance": 1514.530508098243, "timestamp": 442.802}, {"distance": 1526.5484602086167, "timestamp": 445.802}, {"distance": 1537.5648061903323, "timestamp": 448.802}, {"distance": 1549.3414122455322, "timestamp": 451.802}, {"distance": 1561.519523861635, "timestamp": 454.802}, {"distance": 1573.200125505293, "timestamp": 457.802}, {"distance": 1584.7532896358052, "timestamp": 460.801}, {"distance": 1596.278432451843, "timestamp": 463.802}, {"distance": 1607.6909247912472, "timestamp": 466.802}, {"distance": 1618.5331903763076, "timestamp": 469.802}, {"distance": 1629.3855220494884, "timestamp": 472.801}, {"distance": 1640.2257168044598, "timestamp": 475.801}, {"distance": 1651.308800539676, "timestamp": 478.801}, {"distance": 1661.9134981334853, "timestamp": 481.801}, {"distance": 1672.566553540211, "timestamp": 484.801}, {"distance": 1683.1309552572645, "timestamp": 487.801}, {"distance": 1693.509670026629, "timestamp": 490.801}, {"distance": 1704.0206957849352, "timestamp": 493.801}, {"distance": 1714.6164900859171, "timestamp": 496.801}, {"distance": 1725.3307909603247, "timestamp": 499.801}, {"distance": 1735.9027888153419, "timestamp": 502.801}, {"distance": 1746.2724669623599, "timestamp": 505.801}, {"distance": 1756.7648896202952, "timestamp": 508.801}, {"distance": 1767.1194426921056, "timestamp": 511.801}, {"distance": 1777.2914187949966, "timestamp": 514.801}, {"distance": 1787.6028857268773, "timestamp": 517.801}, {"distance": 1797.8858021857575, "timestamp": 520.801}, {"distance": 1808.0574253841587, "timestamp": 523.801}, {"distance": 1818.8169577678937, "timestamp": 526.801}, {"distance": 1828.2464379577245, "timestamp": 529.801}, {"distance": 1838.9733720800207, "timestamp": 532.8}, {"distance": 1850.4984874435886, "timestamp": 535.801}, {"distance": 1861.9011316499066, "timestamp": 538.801}, {"distance": 1872.9529425058122, "timestamp": 541.801}, {"distance": 1884.365392884932, "timestamp": 544.8}, {"distance": 1896.0697776504896, "timestamp": 547.801}, {"distance": 1907.8441999645765, "timestamp": 550.801}, {"distance": 1919.611971933231, "timestamp": 553.801}, {"distance": 1932.0736325428406, "timestamp": 556.801}, {"distance": 1945.691739201435, "timestamp": 559.801}, {"distance": 1957.1032318459615, "timestamp": 561.801}, {"distance": 1967.4696694875813, "timestamp": 563.801}, {"distance": 1978.9236122072698, "timestamp": 566.801}, {"distance": 1990.874659645551, "timestamp": 569.801}, {"distance": 2002.5082439515677, "timestamp": 572.801}, {"distance": 2012.6459064444605, "timestamp": 575.801}, {"distance": 2023.2295253380303, "timestamp": 578.801}, {"distance": 2034.1185312565467, "timestamp": 581.801}, {"distance": 2045.7973932775676, "timestamp": 584.801}, {"distance": 2057.330842667158, "timestamp": 587.801}, {"distance": 2067.9374379417136, "timestamp": 590.801}, {"distance": 2078.3416157131414, "timestamp": 593.801}, {"distance": 2087.664730196438, "timestamp": 596.801}, {"distance": 2099.0489079570298, "timestamp": 600.801}, {"distance": 2108.74668985036, "timestamp": 603.801}, {"distance": 2118.345169029534, "timestamp": 606.801}, {"distance": 2128.204435356671, "timestamp": 609.801}, {"distance": 2137.601685200727, "timestamp": 612.801}, {"distance": 2147.134068259889, "timestamp": 615.801}, {"distance": 2156.697596208935, "timestamp": 618.801}, {"distance": 2167.035288291713, "timestamp": 621.801}, {"distance": 2177.4354187148397, "timestamp": 624.801}, {"distance": 2187.415418208779, "timestamp": 627.801}, {"distance": 2198.216386451788, "timestamp": 630.801}, {"distance": 2208.3572530930282, "timestamp": 633.801}, {"distance": 2218.9191600491804, "timestamp": 636.801}, {"distance": 2229.7188384263636, "timestamp": 639.801}, {"distance": 2239.979043358217, "timestamp": 642.801}, {"distance": 2250.462373400972, "timestamp": 645.801}, {"distance": 2261.363520716475, "timestamp": 648.8}, {"distance": 2272.131108412138, "timestamp": 651.801}, {"distance": 2283.089585836874, "timestamp": 654.801}, {"distance": 2293.741979465104, "timestamp": 657.8}, {"distance": 2303.804760355543, "timestamp": 660.801}, {"distance": 2313.858404446361, "timestamp": 663.801}, {"distance": 2324.2071088985163, "timestamp": 666.801}, {"distance": 2334.6281118864517, "timestamp": 669.801}, {"distance": 2345.09021557601, "timestamp": 672.801}, {"distance": 2355.2385893461815, "timestamp": 675.801}, {"distance": 2365.7917580274097, "timestamp": 678.801}, {"distance": 2376.506526136845, "timestamp": 681.801}, {"distance": 2387.4117301543884, "timestamp": 684.801}, {"distance": 2397.927309492026, "timestamp": 687.801}, {"distance": 2408.5470104310107, "timestamp": 690.801}, {"distance": 2419.151104400974, "timestamp": 693.801}, {"distance": 2429.7707922568447, "timestamp": 696.801}, {"distance": 2440.071935085286, "timestamp": 699.801}, {"distance": 2450.4928712142932, "timestamp": 702.801}, {"distance": 2460.309023120947, "timestamp": 705.801}, {"distance": 2470.1873207590756, "timestamp": 708.801}, {"distance": 2480.3605970464123, "timestamp": 711.801}, {"distance": 2489.665497654387, "timestamp": 714.801}, {"distance": 2498.854425257625, "timestamp": 717.801}, {"distance": 2508.182166567632, "timestamp": 720.8}, {"distance": 2517.3104438572277, "timestamp": 723.801}, {"distance": 2528.4964625978996, "timestamp": 727.801}, {"distance": 2537.8928767779344, "timestamp": 730.801}, {"distance": 2547.459379994941, "timestamp": 733.801}, {"distance": 2557.496680821253, "timestamp": 736.801}, {"distance": 2567.7922700610484, "timestamp": 739.801}, {"distance": 2577.572938256205, "timestamp": 742.801}, {"distance": 2587.5297600973536, "timestamp": 745.801}, {"distance": 2597.2419031877553, "timestamp": 748.801}, {"distance": 2607.0854872986283, "timestamp": 751.801}, {"distance": 2617.3864692840702, "timestamp": 754.801}, {"distance": 2629.050470863552, "timestamp": 757.801}, {"distance": 2640.0758961223046, "timestamp": 760.801}, {"distance": 2651.589178311047, "timestamp": 763.801}, {"distance": 2662.2613476718416, "timestamp": 766.801}, {"distance": 2672.8657257531495, "timestamp": 769.801}, {"distance": 2683.584933865844, "timestamp": 772.801}, {"distance": 2694.626806421105, "timestamp": 775.801}, {"distance": 2705.8157615445716, "timestamp": 778.801}, {"distance": 2717.0398030910223, "timestamp": 781.801}, {"distance": 2727.8178058534595, "timestamp": 784.801}, {"distance": 2738.6134100287304, "timestamp": 787.801}, {"distance": 2749.720753756004, "timestamp": 790.801}, {"distance": 2760.5395291351183, "timestamp": 793.801}, {"distance": 2770.688645323419, "timestamp": 796.801}, {"distance": 2781.1854636653657, "timestamp": 799.801}, {"distance": 2791.409419780382, "timestamp": 802.801}, {"distance": 2801.61081675032, "timestamp": 805.801}, {"distance": 2811.917718105195, "timestamp": 808.801}, {"distance": 2821.736209681923, "timestamp": 811.801}, {"distance": 2832.34649330922, "timestamp": 814.801}, {"distance": 2841.8290979337576, "timestamp": 817.801}, {"distance": 2851.162865567956, "timestamp": 820.801}, {"distance": 2861.386808019734, "timestamp": 824.801}, {"distance": 2871.208346199414, "timestamp": 831.801}, {"distance": 2880.026885078503, "timestamp": 840.801}, {"distance": 2890.2682290268517, "timestamp": 847.801}, {"distance": 2899.545998497184, "timestamp": 853.801}, {"distance": 2908.9952479132335, "timestamp": 859.801}, {"distance": 2918.658255851246, "timestamp": 865.8}, {"distance": 2929.1948608654798, "timestamp": 871.801}, {"distance": 2939.640106662508, "timestamp": 877.801}, {"distance": 2949.412225618398, "timestamp": 883.801}, {"distance": 2958.460392157874, "timestamp": 889.801}, {"distance": 2967.9689516937115, "timestamp": 895.801}, {"distance": 2978.2699838137883, "timestamp": 901.801}, {"distance": 2987.6560503230044, "timestamp": 907.801}, {"distance": 2997.1196175720074, "timestamp": 913.801}, {"distance": 3006.709380815435, "timestamp": 920.801}, {"distance": 3017.026557251121, "timestamp": 927.801}, {"distance": 3026.247561871512, "timestamp": 933.801}, {"distance": 3035.9829344210025, "timestamp": 939.801}, {"distance": 3045.0374699029844, "timestamp": 945.8}, {"distance": 3054.2429904107344, "timestamp": 951.8}, {"distance": 3063.8172876731287, "timestamp": 957.8}, {"distance": 3073.7860018903607, "timestamp": 963.8}, {"distance": 3083.8255130115476, "timestamp": 969.8}, {"distance": 3093.5997132434336, "timestamp": 975.8}, {"distance": 3102.937448497304, "timestamp": 981.8}, {"distance": 3112.3534149810116, "timestamp": 987.8}, {"distance": 3122.324486723316, "timestamp": 993.8}, {"distance": 3132.8358475523755, "timestamp": 999.8}, {"distance": 3142.944251022975, "timestamp": 1005.8}, {"distance": 3152.4350031428194, "timestamp": 1011.8}, {"distance": 3162.804813859206, "timestamp": 1017.8}, {"distance": 3172.61368099352, "timestamp": 1023.8}, {"distance": 3182.562945156147, "timestamp": 1029.8}, {"distance": 3192.0080670307652, "timestamp": 1035.8}, {"distance": 3201.766598737547, "timestamp": 1041.8}, {"distance": 3211.0477311905106, "timestamp": 1047.8}, {"distance": 3221.1159165583254, "timestamp": 1053.8}, {"distance": 3230.793362091406, "timestamp": 1059.8}, {"distance": 3240.7963848247973, "timestamp": 1065.8}, {"distance": 3250.219478209306, "timestamp": 1071.8}, {"distance": 3260.357372594961, "timestamp": 1078.8}, {"distance": 3269.8362092759876, "timestamp": 1084.8}, {"distance": 3279.2914705832563, "timestamp": 1090.8}, {"distance": 3288.7073818664094, "timestamp": 1096.8}, {"distance": 3298.0924642925793, "timestamp": 1102.8}, {"distance": 3307.078899877508, "timestamp": 1108.8}, {"distance": 3316.7209041356505, "timestamp": 1114.8}, {"distance": 3326.812538857805, "timestamp": 1120.8}, {"distance": 3336.720743761655, "timestamp": 1126.8}, {"distance": 3346.711790078878, "timestamp": 1132.8}, {"distance": 3356.748314633495, "timestamp": 1138.8}, {"distance": 3365.929666978477, "timestamp": 1144.8}, {"distance": 3375.5362585334537, "timestamp": 1150.8}, {"distance": 3385.3182639393967, "timestamp": 1156.8}, {"distance": 3395.1709401705366, "timestamp": 1162.8}, {"distance": 3407.0146181794653, "timestamp": 1166.8}, {"distance": 3416.6880552496536, "timestamp": 1169.8}, {"distance": 3426.69435537366, "timestamp": 1172.8}, {"distance": 3436.4526706581155, "timestamp": 1175.8}, {"distance": 3446.4512472106585, "timestamp": 1179.8}, {"distance": 3458.668714366253, "timestamp": 1183.8}, {"distance": 3467.9647749593983, "timestamp": 1186.8}, {"distance": 3477.2579110423003, "timestamp": 1189.8}, {"distance": 3489.1434383583614, "timestamp": 1193.8}, {"distance": 3498.3285380125003, "timestamp": 1196.8}, {"distance": 3509.8564368884263, "timestamp": 1200.8}, {"distance": 3520.8993230140336, "timestamp": 1204.8}, {"distance": 3531.55115342812, "timestamp": 1208.8}, {"distance": 3542.414973265588, "timestamp": 1212.8}, {"distance": 3552.516264418768, "timestamp": 1219.8}, {"distance": 3562.4101931492155, "timestamp": 1226.8}, {"distance": 3572.44571406994, "timestamp": 1233.8}, {"distance": 3582.4673429331665, "timestamp": 1239.8}, {"distance": 3591.9840969457455, "timestamp": 1245.8}, {"distance": 3601.248157758114, "timestamp": 1251.8}, {"distance": 3610.4533150854577, "timestamp": 1257.8}, {"distance": 3620.5002468383327, "timestamp": 1264.8}, {"distance": 3630.8003736351407, "timestamp": 1271.8}, {"distance": 3640.1411539446653, "timestamp": 1277.8}, {"distance": 3650.340173335193, "timestamp": 1283.8}, {"distance": 3660.0452500276215, "timestamp": 1289.8}, {"distance": 3669.819655321994, "timestamp": 1295.8}, {"distance": 3679.7065001901888, "timestamp": 1301.8}, {"distance": 3689.088490201933, "timestamp": 1307.8}, {"distance": 3698.57850256971, "timestamp": 1313.8}, {"distance": 3710.384696685821, "timestamp": 1319.8}, {"distance": 3721.9704652238984, "timestamp": 1323.8}, {"distance": 3731.247881703242, "timestamp": 1326.8}, {"distance": 3740.8104725334824, "timestamp": 1329.8}, {"distance": 3750.57391464581, "timestamp": 1332.8}, {"distance": 3760.7064126807923, "timestamp": 1335.8}, {"distance": 3770.1908387618764, "timestamp": 1338.8}, {"distance": 3779.9296115525644, "timestamp": 1341.8}, {"distance": 3789.140605007902, "timestamp": 1344.8}, {"distance": 3798.742211702254, "timestamp": 1347.8}, {"distance": 3808.3753496147633, "timestamp": 1350.8}, {"distance": 3818.177682920391, "timestamp": 1353.8}, {"distance": 3827.6369221369655, "timestamp": 1356.8}, {"distance": 3837.796526604307, "timestamp": 1359.8}, {"distance": 3848.383791196442, "timestamp": 1362.8}, {"distance": 3858.5243232310427, "timestamp": 1366.8}, {"distance": 3867.6038631616507, "timestamp": 1372.8}, {"distance": 3877.300363676749, "timestamp": 1378.8}, {"distance": 3886.4877195937133, "timestamp": 1384.8}, {"distance": 3896.5603253264912, "timestamp": 1390.8}, {"distance": 3906.4641631472823, "timestamp": 1396.8}, {"distance": 3916.1264981150725, "timestamp": 1402.8}, {"distance": 3925.639405126569, "timestamp": 1428.799}, {"distance": 3934.936368196646, "timestamp": 1436.799}, {"distance": 3945.156405170458, "timestamp": 1442.799}, {"distance": 3955.357029996189, "timestamp": 1447.799}, {"distance": 3965.759750792817, "timestamp": 1462.799}, {"distance": 3978.0799025379533, "timestamp": 1466.799}, {"distance": 3988.110132811573, "timestamp": 1468.799}, {"distance": 3997.4318993047837, "timestamp": 1471.799}, {"distance": 4009.858925807638, "timestamp": 1473.799}, {"distance": 4023.708835242255, "timestamp": 1474.799}, {"distance": 4037.263972062425, "timestamp": 1475.799}, {"distance": 4046.4950722399494, "timestamp": 1481.799}, {"distance": 4056.427618642858, "timestamp": 1552.799}, {"distance": 4064.4940602852503, "timestamp": 1579.192}], "share_map": "Just Me", "entry_mode": "API", "source": "RunKeeper", "nearest_nutrition": "/nearestMeasurement/NUTRITION/82586302/1781792183499", "type": "Running", "nearest_teammate_sleep": ["/nearestMeasurement/SLEEP/65346046/1781792183499", "/nearestMeasurement/SLEEP/82586302/1781792183499"], "userID": 82586302, "nearest_teammate_background_activities": ["/nearestMeasurement/BACKGROUND_ACTIVITY/65346046/1781792183499", "/nearestMeasurement/BACKGROUND_ACTIVITY/82586302/1781792183499"], "duration": "26:19", "climb": 78.5064935064935, "path": [{"altitude": 104, "latitude": 50.731724, "type": "start", "timestamp": 0, "longitude": 3.634865}, {"altitude": 104, "latitude": 50.731686, "type": "gps", "timestamp": 7.803, "longitude": 3.634981}, {"altitude": 103.875, "latitude": 50.731617, "type": "gps", "timestamp": 13.803, "longitude": 3.635063}, {"altitude": 103.77777777777777, "latitude": 50.731556, "type": "gps", "timestamp": 20.803, "longitude": 3.635165}, {"altitude": 103.7, "latitude": 50.73148, "type": "gps", "timestamp": 28.803, "longitude": 3.635227}, {"altitude": 103.63636363636364, "latitude": 50.731453, "type": "gps", "timestamp": 32.803, "longitude": 3.635102}, {"altitude": 103.54545454545455, "latitude": 50.731415, "type": "gps", "timestamp": 34.803, "longitude": 3.634966}, {"altitude": 103.45454545454545, "latitude": 50.731377, "type": "gps", "timestamp": 36.803, "longitude": 3.634822}, {"altitude": 103.36363636363636, "latitude": 50.73134, "type": "gps", "timestamp": 38.803, "longitude": 3.634697}, {"altitude": 103.27272727272727, "latitude": 50.7313, "type": "gps", "timestamp": 40.803, "longitude": 3.63457}, {"altitude": 103.18181818181819, "latitude": 50.731255, "type": "gps", "timestamp": 42.803, "longitude": 3.634431}, {"altitude": 103.18181818181819, "latitude": 50.73121, "type": "gps", "timestamp": 44.803, "longitude": 3.634307}, {"altitude": 103.0909090909091, "latitude": 50.73116, "type": "gps", "timestamp": 46.803, "longitude": 3.634188}, {"altitude": 103.0909090909091, "latitude": 50.731075, "type": "gps", "timestamp": 48.803, "longitude": 3.634138}, {"altitude": 103, "latitude": 50.73102, "type": "gps", "timestamp": 50.803, "longitude": 3.634257}, {"altitude": 102.9090909090909, "latitude": 50.731, "type": "gps", "timestamp": 52.803, "longitude": 3.634387}, {"altitude": 102.81818181818181, "latitude": 50.730976, "type": "gps", "timestamp": 54.803, "longitude": 3.634517}, {"altitude": 102.72727272727273, "latitude": 50.73095, "type": "gps", "timestamp": 56.803, "longitude": 3.634646}, {"altitude": 102.72727272727273, "latitude": 50.730915, "type": "gps", "timestamp": 58.803, "longitude": 3.634767}, {"altitude": 102.72727272727273, "latitude": 50.73086, "type": "gps", "timestamp": 61.803, "longitude": 3.634935}, {"altitude": 102.72727272727273, "latitude": 50.730804, "type": "gps", "timestamp": 64.803, "longitude": 3.635085}, {"altitude": 102.72727272727273, "latitude": 50.73075, "type": "gps", "timestamp": 67.803, "longitude": 3.635244}, {"altitude": 102.63636363636364, "latitude": 50.7307, "type": "gps", "timestamp": 70.803, "longitude": 3.635403}, {"altitude": 102.63636363636364, "latitude": 50.73065, "type": "gps", "timestamp": 73.803, "longitude": 3.635569}, {"altitude": 102.63636363636364, "latitude": 50.730606, "type": "gps", "timestamp": 76.803, "longitude": 3.63574}, {"altitude": 102.81818181818181, "latitude": 50.73056, "type": "gps", "timestamp": 79.803, "longitude": 3.635911}, {"altitude": 103, "latitude": 50.730522, "type": "gps", "timestamp": 82.803, "longitude": 3.636068}, {"altitude": 103.18181818181819, "latitude": 50.73048, "type": "gps", "timestamp": 85.803, "longitude": 3.63622}, {"altitude": 103.36363636363636, "latitude": 50.73043, "type": "gps", "timestamp": 88.803, "longitude": 3.636377}, {"altitude": 103.54545454545455, "latitude": 50.730373, "type": "gps", "timestamp": 91.803, "longitude": 3.636523}, {"altitude": 103.72727272727273, "latitude": 50.730316, "type": "gps", "timestamp": 94.803, "longitude": 3.636678}, {"altitude": 103.9090909090909, "latitude": 50.730267, "type": "gps", "timestamp": 97.803, "longitude": 3.636823}, {"altitude": 104.18181818181819, "latitude": 50.730213, "type": "gps", "timestamp": 100.803, "longitude": 3.636957}, {"altitude": 104.45454545454545, "latitude": 50.730156, "type": "gps", "timestamp": 103.803, "longitude": 3.637102}, {"altitude": 104.72727272727273, "latitude": 50.7301, "type": "gps", "timestamp": 106.803, "longitude": 3.637246}, {"altitude": 105, "latitude": 50.730038, "type": "gps", "timestamp": 109.803, "longitude": 3.637393}, {"altitude": 105.27272727272727, "latitude": 50.729973, "type": "gps", "timestamp": 112.803, "longitude": 3.637534}, {"altitude": 105.54545454545455, "latitude": 50.7299, "type": "gps", "timestamp": 115.803, "longitude": 3.637663}, {"altitude": 105.81818181818181, "latitude": 50.72982, "type": "gps", "timestamp": 118.803, "longitude": 3.637785}, {"altitude": 106.0909090909091, "latitude": 50.729725, "type": "gps", "timestamp": 121.803, "longitude": 3.637873}, {"altitude": 106.18181818181819, "latitude": 50.729614, "type": "gps", "timestamp": 124.803, "longitude": 3.63793}, {"altitude": 106.27272727272727, "latitude": 50.7295, "type": "gps", "timestamp": 127.803, "longitude": 3.637991}, {"altitude": 106.36363636363636, "latitude": 50.729385, "type": "gps", "timestamp": 130.803, "longitude": 3.638042}, {"altitude": 106.36363636363636, "latitude": 50.72928, "type": "gps", "timestamp": 133.803, "longitude": 3.638109}, {"altitude": 106.36363636363636, "latitude": 50.72917, "type": "gps", "timestamp": 136.804, "longitude": 3.638162}, {"altitude": 106.27272727272727, "latitude": 50.729073, "type": "gps", "timestamp": 139.804, "longitude": 3.638224}, {"altitude": 106.18181818181819, "latitude": 50.72897, "type": "gps", "timestamp": 142.803, "longitude": 3.638279}, {"altitude": 106, "latitude": 50.728874, "type": "gps", "timestamp": 145.803, "longitude": 3.638336}, {"altitude": 105.81818181818181, "latitude": 50.728775, "type": "gps", "timestamp": 148.803, "longitude": 3.638383}, {"altitude": 105.63636363636364, "latitude": 50.728687, "type": "gps", "timestamp": 151.803, "longitude": 3.638444}, {"altitude": 105.45454545454545, "latitude": 50.728603, "type": "gps", "timestamp": 154.803, "longitude": 3.638527}, {"altitude": 105.45454545454545, "latitude": 50.728523, "type": "gps", "timestamp": 157.803, "longitude": 3.638612}, {"altitude": 105.45454545454545, "latitude": 50.72845, "type": "gps", "timestamp": 160.803, "longitude": 3.638712}, {"altitude": 105.54545454545455, "latitude": 50.728382, "type": "gps", "timestamp": 163.803, "longitude": 3.638815}, {"altitude": 105.63636363636364, "latitude": 50.728313, "type": "gps", "timestamp": 166.803, "longitude": 3.638914}, {"altitude": 105.72727272727273, "latitude": 50.728245, "type": "gps", "timestamp": 169.803, "longitude": 3.639027}, {"altitude": 105.9090909090909, "latitude": 50.728176, "type": "gps", "timestamp": 172.803, "longitude": 3.639135}, {"altitude": 106.0909090909091, "latitude": 50.72811, "type": "gps", "timestamp": 175.803, "longitude": 3.639244}, {"altitude": 106.27272727272727, "latitude": 50.728035, "type": "gps", "timestamp": 178.803, "longitude": 3.639346}, {"altitude": 106.54545454545455, "latitude": 50.72796, "type": "gps", "timestamp": 181.803, "longitude": 3.639439}, {"altitude": 106.81818181818181, "latitude": 50.727882, "type": "gps", "timestamp": 184.803, "longitude": 3.639528}, {"altitude": 107.0909090909091, "latitude": 50.727802, "type": "gps", "timestamp": 187.803, "longitude": 3.639611}, {"altitude": 107.27272727272727, "latitude": 50.72772, "type": "gps", "timestamp": 190.803, "longitude": 3.639698}, {"altitude": 107.45454545454545, "latitude": 50.72763, "type": "gps", "timestamp": 193.803, "longitude": 3.639779}, {"altitude": 107.63636363636364, "latitude": 50.727554, "type": "gps", "timestamp": 196.803, "longitude": 3.639875}, {"altitude": 107.81818181818181, "latitude": 50.727486, "type": "gps", "timestamp": 199.803, "longitude": 3.639977}, {"altitude": 107.9090909090909, "latitude": 50.727425, "type": "gps", "timestamp": 202.803, "longitude": 3.640094}, {"altitude": 108, "latitude": 50.72737, "type": "gps", "timestamp": 205.803, "longitude": 3.640219}, {"altitude": 108, "latitude": 50.72732, "type": "gps", "timestamp": 208.803, "longitude": 3.640337}, {"altitude": 108, "latitude": 50.727264, "type": "gps", "timestamp": 211.803, "longitude": 3.640447}, {"altitude": 107.81818181818181, "latitude": 50.727215, "type": "gps", "timestamp": 214.803, "longitude": 3.64056}, {"altitude": 107.63636363636364, "latitude": 50.72716, "type": "gps", "timestamp": 217.803, "longitude": 3.640668}, {"altitude": 107.36363636363636, "latitude": 50.727108, "type": "gps", "timestamp": 220.803, "longitude": 3.640781}, {"altitude": 107.0909090909091, "latitude": 50.72705, "type": "gps", "timestamp": 223.802, "longitude": 3.64089}, {"altitude": 106.72727272727273, "latitude": 50.726994, "type": "gps", "timestamp": 226.803, "longitude": 3.641}, {"altitude": 106.27272727272727, "latitude": 50.726933, "type": "gps", "timestamp": 229.803, "longitude": 3.641107}, {"altitude": 105.72727272727273, "latitude": 50.726856, "type": "gps", "timestamp": 232.803, "longitude": 3.641193}, {"altitude": 105.27272727272727, "latitude": 50.726765, "type": "gps", "timestamp": 235.803, "longitude": 3.641238}, {"altitude": 104.81818181818181, "latitude": 50.72667, "type": "gps", "timestamp": 238.803, "longitude": 3.641229}, {"altitude": 104.45454545454545, "latitude": 50.72658, "type": "gps", "timestamp": 241.803, "longitude": 3.641198}, {"altitude": 104.0909090909091, "latitude": 50.72649, "type": "gps", "timestamp": 244.803, "longitude": 3.641165}, {"altitude": 103.9090909090909, "latitude": 50.7264, "type": "gps", "timestamp": 247.803, "longitude": 3.641124}, {"altitude": 103.81818181818181, "latitude": 50.726307, "type": "gps", "timestamp": 250.803, "longitude": 3.641076}, {"altitude": 103.81818181818181, "latitude": 50.726215, "type": "gps", "timestamp": 253.802, "longitude": 3.641014}, {"altitude": 103.81818181818181, "latitude": 50.726124, "type": "gps", "timestamp": 256.803, "longitude": 3.640968}, {"altitude": 104, "latitude": 50.72604, "type": "gps", "timestamp": 259.803, "longitude": 3.640911}, {"altitude": 104.18181818181819, "latitude": 50.72595, "type": "gps", "timestamp": 262.803, "longitude": 3.640861}, {"altitude": 104.54545454545455, "latitude": 50.725864, "type": "gps", "timestamp": 265.803, "longitude": 3.640796}, {"altitude": 105, "latitude": 50.725784, "type": "gps", "timestamp": 268.803, "longitude": 3.640729}, {"altitude": 105.45454545454545, "latitude": 50.725697, "type": "gps", "timestamp": 272.803, "longitude": 3.640667}, {"altitude": 105.9090909090909, "latitude": 50.72561, "type": "gps", "timestamp": 276.803, "longitude": 3.640616}, {"altitude": 106.45454545454545, "latitude": 50.725513, "type": "gps", "timestamp": 280.803, "longitude": 3.640587}, {"altitude": 106.9090909090909, "latitude": 50.725407, "type": "gps", "timestamp": 284.803, "longitude": 3.640577}, {"altitude": 107.27272727272727, "latitude": 50.725315, "type": "gps", "timestamp": 287.803, "longitude": 3.640578}, {"altitude": 107.72727272727273, "latitude": 50.725227, "type": "gps", "timestamp": 290.803, "longitude": 3.640569}, {"altitude": 108.18181818181819, "latitude": 50.725136, "type": "gps", "timestamp": 293.803, "longitude": 3.64054}, {"altitude": 108.63636363636364, "latitude": 50.725048, "type": "gps", "timestamp": 296.803, "longitude": 3.640514}, {"altitude": 109.0909090909091, "latitude": 50.72495, "type": "gps", "timestamp": 300.802, "longitude": 3.640447}, {"altitude": 109.54545454545455, "latitude": 50.724865, "type": "gps", "timestamp": 303.802, "longitude": 3.640431}, {"altitude": 109.9090909090909, "latitude": 50.724785, "type": "gps", "timestamp": 306.802, "longitude": 3.640416}, {"altitude": 110.27272727272727, "latitude": 50.7247, "type": "gps", "timestamp": 309.802, "longitude": 3.640395}, {"altitude": 110.63636363636364, "latitude": 50.72462, "type": "gps", "timestamp": 312.802, "longitude": 3.640387}, {"altitude": 110.9090909090909, "latitude": 50.724514, "type": "gps", "timestamp": 316.802, "longitude": 3.640362}, {"altitude": 111.18181818181819, "latitude": 50.724426, "type": "gps", "timestamp": 320.802, "longitude": 3.640354}, {"altitude": 111.54545454545455, "latitude": 50.72434, "type": "gps", "timestamp": 324.802, "longitude": 3.640369}, {"altitude": 111.81818181818181, "latitude": 50.724243, "type": "gps", "timestamp": 328.802, "longitude": 3.640383}, {"altitude": 112.18181818181819, "latitude": 50.724144, "type": "gps", "timestamp": 332.802, "longitude": 3.640407}, {"altitude": 112.54545454545455, "latitude": 50.72405, "type": "gps", "timestamp": 336.802, "longitude": 3.640434}, {"altitude": 112.81818181818181, "latitude": 50.723938, "type": "gps", "timestamp": 340.802, "longitude": 3.640451}, {"altitude": 113, "latitude": 50.723854, "type": "gps", "timestamp": 343.802, "longitude": 3.640447}, {"altitude": 113.0909090909091, "latitude": 50.723766, "type": "gps", "timestamp": 346.802, "longitude": 3.640444}, {"altitude": 113.18181818181819, "latitude": 50.723682, "type": "gps", "timestamp": 349.802, "longitude": 3.640435}, {"altitude": 113.36363636363636, "latitude": 50.723595, "type": "gps", "timestamp": 352.802, "longitude": 3.640422}, {"altitude": 113.54545454545455, "latitude": 50.723507, "type": "gps", "timestamp": 355.802, "longitude": 3.64039}, {"altitude": 113.72727272727273, "latitude": 50.723427, "type": "gps", "timestamp": 358.801, "longitude": 3.640359}, {"altitude": 113.9090909090909, "latitude": 50.723343, "type": "gps", "timestamp": 361.802, "longitude": 3.640314}, {"altitude": 114.18181818181819, "latitude": 50.723255, "type": "gps", "timestamp": 364.802, "longitude": 3.640312}, {"altitude": 114.36363636363636, "latitude": 50.723167, "type": "gps", "timestamp": 367.802, "longitude": 3.640289}, {"altitude": 114.54545454545455, "latitude": 50.72308, "type": "gps", "timestamp": 370.802, "longitude": 3.64027}, {"altitude": 114.81818181818181, "latitude": 50.722992, "type": "gps", "timestamp": 373.802, "longitude": 3.640249}, {"altitude": 115.0909090909091, "latitude": 50.722904, "type": "gps", "timestamp": 376.802, "longitude": 3.640223}, {"altitude": 115.45454545454545, "latitude": 50.72282, "type": "gps", "timestamp": 379.802, "longitude": 3.640191}, {"altitude": 115.72727272727273, "latitude": 50.722736, "type": "gps", "timestamp": 382.802, "longitude": 3.640161}, {"altitude": 115.9090909090909, "latitude": 50.72265, "type": "gps", "timestamp": 385.802, "longitude": 3.640138}, {"altitude": 116.0909090909091, "latitude": 50.72256, "type": "gps", "timestamp": 388.802, "longitude": 3.640118}, {"altitude": 116.27272727272727, "latitude": 50.722485, "type": "gps", "timestamp": 392.802, "longitude": 3.640015}, {"altitude": 116.36363636363636, "latitude": 50.72251, "type": "gps", "timestamp": 395.802, "longitude": 3.639873}, {"altitude": 116.36363636363636, "latitude": 50.722534, "type": "gps", "timestamp": 398.801, "longitude": 3.639749}, {"altitude": 116.36363636363636, "latitude": 50.72256, "type": "gps", "timestamp": 402.802, "longitude": 3.639587}, {"altitude": 116.18181818181819, "latitude": 50.722584, "type": "gps", "timestamp": 406.802, "longitude": 3.639425}, {"altitude": 115.9090909090909, "latitude": 50.722603, "type": "gps", "timestamp": 409.802, "longitude": 3.6393}, {"altitude": 115.54545454545455, "latitude": 50.72263, "type": "gps", "timestamp": 412.802, "longitude": 3.639175}, {"altitude": 115.0909090909091, "latitude": 50.72266, "type": "gps", "timestamp": 415.802, "longitude": 3.639043}, {"altitude": 114.63636363636364, "latitude": 50.722694, "type": "gps", "timestamp": 418.802, "longitude": 3.638918}, {"altitude": 114.0909090909091, "latitude": 50.722733, "type": "gps", "timestamp": 421.802, "longitude": 3.638782}, {"altitude": 113.45454545454545, "latitude": 50.72278, "type": "gps", "timestamp": 424.801, "longitude": 3.638653}, {"altitude": 112.81818181818181, "latitude": 50.722816, "type": "gps", "timestamp": 427.802, "longitude": 3.63852}, {"altitude": 112.18181818181819, "latitude": 50.722843, "type": "gps", "timestamp": 430.802, "longitude": 3.638377}, {"altitude": 111.54545454545455, "latitude": 50.722862, "type": "gps", "timestamp": 433.802, "longitude": 3.638218}, {"altitude": 110.9090909090909, "latitude": 50.722878, "type": "gps", "timestamp": 436.802, "longitude": 3.638053}, {"altitude": 110.27272727272727, "latitude": 50.7229, "type": "gps", "timestamp": 439.802, "longitude": 3.637887}, {"altitude": 109.63636363636364, "latitude": 50.72294, "type": "gps", "timestamp": 442.802, "longitude": 3.637721}, {"altitude": 109, "latitude": 50.723, "type": "gps", "timestamp": 445.802, "longitude": 3.637579}, {"altitude": 108.45454545454545, "latitude": 50.723057, "type": "gps", "timestamp": 448.802, "longitude": 3.637451}, {"altitude": 107.9090909090909, "latitude": 50.723114, "type": "gps", "timestamp": 451.802, "longitude": 3.63731}, {"altitude": 107.45454545454545, "latitude": 50.72316, "type": "gps", "timestamp": 454.802, "longitude": 3.637153}, {"altitude": 107, "latitude": 50.723194, "type": "gps", "timestamp": 457.802, "longitude": 3.636996}, {"altitude": 106.54545454545455, "latitude": 50.723198, "type": "gps", "timestamp": 460.801, "longitude": 3.636832}, {"altitude": 106, "latitude": 50.723183, "type": "gps", "timestamp": 463.802, "longitude": 3.63667}, {"altitude": 105.45454545454545, "latitude": 50.72316, "type": "gps", "timestamp": 466.802, "longitude": 3.636512}, {"altitude": 104.9090909090909, "latitude": 50.723133, "type": "gps", "timestamp": 469.802, "longitude": 3.636364}, {"altitude": 104.45454545454545, "latitude": 50.723095, "type": "gps", "timestamp": 472.801, "longitude": 3.636222}, {"altitude": 104, "latitude": 50.723064, "type": "gps", "timestamp": 475.801, "longitude": 3.636076}, {"altitude": 103.63636363636364, "latitude": 50.72303, "type": "gps", "timestamp": 478.801, "longitude": 3.635928}, {"altitude": 103.18181818181819, "latitude": 50.723, "type": "gps", "timestamp": 481.801, "longitude": 3.635785}, {"altitude": 102.81818181818181, "latitude": 50.72298, "type": "gps", "timestamp": 484.801, "longitude": 3.635637}, {"altitude": 102.36363636363636, "latitude": 50.722977, "type": "gps", "timestamp": 487.801, "longitude": 3.635487}, {"altitude": 102, "latitude": 50.72299, "type": "gps", "timestamp": 490.801, "longitude": 3.635341}, {"altitude": 101.63636363636364, "latitude": 50.723015, "type": "gps", "timestamp": 493.801, "longitude": 3.635197}, {"altitude": 101.27272727272727, "latitude": 50.72305, "type": "gps", "timestamp": 496.801, "longitude": 3.635057}, {"altitude": 100.9090909090909, "latitude": 50.723083, "type": "gps", "timestamp": 499.801, "longitude": 3.634914}, {"altitude": 100.45454545454545, "latitude": 50.72311, "type": "gps", "timestamp": 502.801, "longitude": 3.63477}, {"altitude": 100, "latitude": 50.723137, "type": "gps", "timestamp": 505.801, "longitude": 3.634629}, {"altitude": 99.54545454545455, "latitude": 50.723156, "type": "gps", "timestamp": 508.801, "longitude": 3.634483}, {"altitude": 98.9090909090909, "latitude": 50.723175, "type": "gps", "timestamp": 511.801, "longitude": 3.634339}, {"altitude": 98.27272727272727, "latitude": 50.7232, "type": "gps", "timestamp": 514.801, "longitude": 3.6342}, {"altitude": 97.54545454545455, "latitude": 50.723217, "type": "gps", "timestamp": 517.801, "longitude": 3.634056}, {"altitude": 96.81818181818181, "latitude": 50.72322, "type": "gps", "timestamp": 520.801, "longitude": 3.63391}, {"altitude": 96, "latitude": 50.72324, "type": "gps", "timestamp": 523.801, "longitude": 3.633769}, {"altitude": 95.0909090909091, "latitude": 50.723255, "type": "gps", "timestamp": 526.801, "longitude": 3.633618}, {"altitude": 94.0909090909091, "latitude": 50.72328, "type": "gps", "timestamp": 529.801, "longitude": 3.63349}, {"altitude": 92.9090909090909, "latitude": 50.723297, "type": "gps", "timestamp": 532.8, "longitude": 3.63334}, {"altitude": 91.72727272727273, "latitude": 50.723312, "type": "gps", "timestamp": 535.801, "longitude": 3.633178}, {"altitude": 90.45454545454545, "latitude": 50.723328, "type": "gps", "timestamp": 538.801, "longitude": 3.633018}, {"altitude": 89, "latitude": 50.723328, "type": "gps", "timestamp": 541.801, "longitude": 3.632861}, {"altitude": 87.45454545454545, "latitude": 50.723324, "type": "gps", "timestamp": 544.8, "longitude": 3.632699}, {"altitude": 85.9090909090909, "latitude": 50.72333, "type": "gps", "timestamp": 547.801, "longitude": 3.632533}, {"altitude": 84.36363636363636, "latitude": 50.723343, "type": "gps", "timestamp": 550.801, "longitude": 3.632367}, {"altitude": 82.9090909090909, "latitude": 50.72336, "type": "gps", "timestamp": 553.801, "longitude": 3.632202}, {"altitude": 81.54545454545455, "latitude": 50.723362, "type": "gps", "timestamp": 556.801, "longitude": 3.632025}, {"altitude": 80.27272727272727, "latitude": 50.723377, "type": "gps", "timestamp": 559.801, "longitude": 3.631833}, {"altitude": 79.0909090909091, "latitude": 50.723446, "type": "gps", "timestamp": 561.801, "longitude": 3.631713}, {"altitude": 78.0909090909091, "latitude": 50.723537, "type": "gps", "timestamp": 563.801, "longitude": 3.631681}, {"altitude": 77.18181818181819, "latitude": 50.72364, "type": "gps", "timestamp": 566.801, "longitude": 3.631683}, {"altitude": 76.27272727272727, "latitude": 50.723747, "type": "gps", "timestamp": 569.801, "longitude": 3.631699}, {"altitude": 75.45454545454545, "latitude": 50.72385, "type": "gps", "timestamp": 572.801, "longitude": 3.631728}, {"altitude": 74.81818181818181, "latitude": 50.72394, "type": "gps", "timestamp": 575.801, "longitude": 3.631751}, {"altitude": 74.27272727272727, "latitude": 50.724033, "type": "gps", "timestamp": 578.801, "longitude": 3.631783}, {"altitude": 73.72727272727273, "latitude": 50.724125, "type": "gps", "timestamp": 581.801, "longitude": 3.631836}, {"altitude": 73.0909090909091, "latitude": 50.72423, "type": "gps", "timestamp": 584.801, "longitude": 3.63184}, {"altitude": 72.36363636363636, "latitude": 50.724308, "type": "gps", "timestamp": 587.801, "longitude": 3.631732}, {"altitude": 71.54545454545455, "latitude": 50.724354, "type": "gps", "timestamp": 590.801, "longitude": 3.6316}, {"altitude": 70.81818181818181, "latitude": 50.724384, "type": "gps", "timestamp": 593.801, "longitude": 3.63146}, {"altitude": 70, "latitude": 50.724403, "type": "gps", "timestamp": 596.801, "longitude": 3.631331}, {"altitude": 69.0909090909091, "latitude": 50.72443, "type": "gps", "timestamp": 600.801, "longitude": 3.631175}, {"altitude": 68.27272727272727, "latitude": 50.724457, "type": "gps", "timestamp": 603.801, "longitude": 3.631044}, {"altitude": 67.54545454545455, "latitude": 50.72449, "type": "gps", "timestamp": 606.801, "longitude": 3.630918}, {"altitude": 66.9090909090909, "latitude": 50.72453, "type": "gps", "timestamp": 609.801, "longitude": 3.630793}, {"altitude": 66.27272727272727, "latitude": 50.724575, "type": "gps", "timestamp": 612.801, "longitude": 3.63068}, {"altitude": 65.72727272727273, "latitude": 50.724625, "type": "gps", "timestamp": 615.801, "longitude": 3.63057}, {"altitude": 65.27272727272727, "latitude": 50.724678, "type": "gps", "timestamp": 618.801, "longitude": 3.630463}, {"altitude": 64.81818181818181, "latitude": 50.724743, "type": "gps", "timestamp": 621.801, "longitude": 3.630358}, {"altitude": 64.36363636363636, "latitude": 50.724804, "type": "gps", "timestamp": 624.801, "longitude": 3.630246}, {"altitude": 63.81818181818182, "latitude": 50.724865, "type": "gps", "timestamp": 627.801, "longitude": 3.630142}, {"altitude": 63.27272727272727, "latitude": 50.724934, "type": "gps", "timestamp": 630.801, "longitude": 3.630034}, {"altitude": 62.81818181818182, "latitude": 50.725002, "type": "gps", "timestamp": 633.801, "longitude": 3.629938}, {"altitude": 62.36363636363637, "latitude": 50.725075, "type": "gps", "timestamp": 636.801, "longitude": 3.629842}, {"altitude": 61.90909090909091, "latitude": 50.72514, "type": "gps", "timestamp": 639.801, "longitude": 3.629728}, {"altitude": 61.45454545454545, "latitude": 50.725204, "type": "gps", "timestamp": 642.801, "longitude": 3.629623}, {"altitude": 61.09090909090909, "latitude": 50.72525, "type": "gps", "timestamp": 645.801, "longitude": 3.629493}, {"altitude": 60.81818181818182, "latitude": 50.725307, "type": "gps", "timestamp": 648.8, "longitude": 3.629367}, {"altitude": 60.54545454545455, "latitude": 50.725357, "type": "gps", "timestamp": 651.801, "longitude": 3.629236}, {"altitude": 60.36363636363637, "latitude": 50.725414, "type": "gps", "timestamp": 654.801, "longitude": 3.629109}, {"altitude": 60.27272727272727, "latitude": 50.725468, "type": "gps", "timestamp": 657.8, "longitude": 3.628984}, {"altitude": 60.27272727272727, "latitude": 50.72552, "type": "gps", "timestamp": 660.801, "longitude": 3.628867}, {"altitude": 60.45454545454545, "latitude": 50.72557, "type": "gps", "timestamp": 663.801, "longitude": 3.628748}, {"altitude": 60.63636363636363, "latitude": 50.72562, "type": "gps", "timestamp": 666.801, "longitude": 3.628624}, {"altitude": 60.81818181818182, "latitude": 50.725674, "type": "gps", "timestamp": 669.801, "longitude": 3.628503}, {"altitude": 61.09090909090909, "latitude": 50.725716, "type": "gps", "timestamp": 672.801, "longitude": 3.62837}, {"altitude": 61.27272727272727, "latitude": 50.725758, "type": "gps", "timestamp": 675.801, "longitude": 3.628242}, {"altitude": 61.36363636363637, "latitude": 50.725803, "type": "gps", "timestamp": 678.801, "longitude": 3.62811}, {"altitude": 61.36363636363637, "latitude": 50.725845, "type": "gps", "timestamp": 681.801, "longitude": 3.627973}, {"altitude": 61.36363636363637, "latitude": 50.725887, "type": "gps", "timestamp": 684.801, "longitude": 3.627833}, {"altitude": 61.27272727272727, "latitude": 50.72592, "type": "gps", "timestamp": 687.801, "longitude": 3.627693}, {"altitude": 61.18181818181818, "latitude": 50.72596, "type": "gps", "timestamp": 690.801, "longitude": 3.627556}, {"altitude": 61.09090909090909, "latitude": 50.72599, "type": "gps", "timestamp": 693.801, "longitude": 3.627413}, {"altitude": 60.81818181818182, "latitude": 50.72603, "type": "gps", "timestamp": 696.801, "longitude": 3.627276}, {"altitude": 60.54545454545455, "latitude": 50.72607, "type": "gps", "timestamp": 699.801, "longitude": 3.627144}, {"altitude": 60.18181818181818, "latitude": 50.726124, "type": "gps", "timestamp": 702.801, "longitude": 3.627023}, {"altitude": 59.81818181818182, "latitude": 50.726173, "type": "gps", "timestamp": 705.801, "longitude": 3.626907}, {"altitude": 59.45454545454545, "latitude": 50.726223, "type": "gps", "timestamp": 708.801, "longitude": 3.626791}, {"altitude": 59, "latitude": 50.72627, "type": "gps", "timestamp": 711.801, "longitude": 3.626667}, {"altitude": 58.45454545454545, "latitude": 50.72632, "type": "gps", "timestamp": 714.801, "longitude": 3.626561}, {"altitude": 57.81818181818182, "latitude": 50.726376, "type": "gps", "timestamp": 717.801, "longitude": 3.626465}, {"altitude": 57.27272727272727, "latitude": 50.726448, "type": "gps", "timestamp": 720.8, "longitude": 3.626397}, {"altitude": 56.63636363636363, "latitude": 50.72651, "type": "gps", "timestamp": 723.801, "longitude": 3.626312}, {"altitude": 56, "latitude": 50.7266, "type": "gps", "timestamp": 727.801, "longitude": 3.626241}, {"altitude": 55.36363636363637, "latitude": 50.72668, "type": "gps", "timestamp": 730.801, "longitude": 3.626198}, {"altitude": 54.72727272727273, "latitude": 50.72676, "type": "gps", "timestamp": 733.801, "longitude": 3.626148}, {"altitude": 54.18181818181818, "latitude": 50.726845, "type": "gps", "timestamp": 736.801, "longitude": 3.6261}, {"altitude": 53.63636363636363, "latitude": 50.72693, "type": "gps", "timestamp": 739.801, "longitude": 3.626042}, {"altitude": 53.18181818181818, "latitude": 50.727013, "type": "gps", "timestamp": 742.801, "longitude": 3.625996}, {"altitude": 52.72727272727273, "latitude": 50.727097, "type": "gps", "timestamp": 745.801, "longitude": 3.625947}, {"altitude": 52.27272727272727, "latitude": 50.727173, "type": "gps", "timestamp": 748.801, "longitude": 3.625879}, {"altitude": 51.90909090909091, "latitude": 50.72725, "type": "gps", "timestamp": 751.801, "longitude": 3.62581}, {"altitude": 51.45454545454545, "latitude": 50.727333, "type": "gps", "timestamp": 754.801, "longitude": 3.625745}, {"altitude": 51.09090909090909, "latitude": 50.727406, "type": "gps", "timestamp": 757.801, "longitude": 3.625626}, {"altitude": 50.72727272727273, "latitude": 50.727474, "type": "gps", "timestamp": 760.801, "longitude": 3.625512}, {"altitude": 50.36363636363637, "latitude": 50.727547, "type": "gps", "timestamp": 763.801, "longitude": 3.625396}, {"altitude": 50, "latitude": 50.727615, "type": "gps", "timestamp": 766.801, "longitude": 3.625289}, {"altitude": 49.63636363636363, "latitude": 50.727684, "type": "gps", "timestamp": 769.801, "longitude": 3.625185}, {"altitude": 49.27272727272727, "latitude": 50.72775, "type": "gps", "timestamp": 772.801, "longitude": 3.625074}, {"altitude": 48.81818181818182, "latitude": 50.72781, "type": "gps", "timestamp": 775.801, "longitude": 3.624949}, {"altitude": 48.45454545454545, "latitude": 50.727867, "type": "gps", "timestamp": 778.801, "longitude": 3.624818}, {"altitude": 48.18181818181818, "latitude": 50.727932, "type": "gps", "timestamp": 781.801, "longitude": 3.624696}, {"altitude": 47.90909090909091, "latitude": 50.727993, "type": "gps", "timestamp": 784.801, "longitude": 3.624577}, {"altitude": 47.63636363636363, "latitude": 50.72806, "type": "gps", "timestamp": 787.801, "longitude": 3.624466}, {"altitude": 47.36363636363637, "latitude": 50.728134, "type": "gps", "timestamp": 790.801, "longitude": 3.62436}, {"altitude": 47.09090909090909, "latitude": 50.72823, "type": "gps", "timestamp": 793.801, "longitude": 3.624335}, {"altitude": 46.90909090909091, "latitude": 50.72832, "type": "gps", "timestamp": 796.801, "longitude": 3.624359}, {"altitude": 46.63636363636363, "latitude": 50.72841, "type": "gps", "timestamp": 799.801, "longitude": 3.624404}, {"altitude": 46.36363636363637, "latitude": 50.728497, "type": "gps", "timestamp": 802.801, "longitude": 3.624451}, {"altitude": 46.09090909090909, "latitude": 50.728584, "type": "gps", "timestamp": 805.801, "longitude": 3.624497}, {"altitude": 45.90909090909091, "latitude": 50.728672, "type": "gps", "timestamp": 808.801, "longitude": 3.624543}, {"altitude": 45.72727272727273, "latitude": 50.728756, "type": "gps", "timestamp": 811.801, "longitude": 3.624586}, {"altitude": 45.54545454545455, "latitude": 50.728848, "type": "gps", "timestamp": 814.801, "longitude": 3.624626}, {"altitude": 45.45454545454545, "latitude": 50.72893, "type": "gps", "timestamp": 817.801, "longitude": 3.624663}, {"altitude": 45.45454545454545, "latitude": 50.729008, "type": "gps", "timestamp": 820.801, "longitude": 3.624712}, {"altitude": 45.54545454545455, "latitude": 50.729095, "type": "gps", "timestamp": 824.801, "longitude": 3.624759}, {"altitude": 45.63636363636363, "latitude": 50.729183, "type": "gps", "timestamp": 831.801, "longitude": 3.624747}, {"altitude": 45.81818181818182, "latitude": 50.72926, "type": "gps", "timestamp": 840.801, "longitude": 3.624777}, {"altitude": 46.09090909090909, "latitude": 50.729313, "type": "gps", "timestamp": 847.801, "longitude": 3.624896}, {"altitude": 46.45454545454545, "latitude": 50.729343, "type": "gps", "timestamp": 853.801, "longitude": 3.625019}, {"altitude": 46.81818181818182, "latitude": 50.729374, "type": "gps", "timestamp": 859.801, "longitude": 3.625144}, {"altitude": 47.27272727272727, "latitude": 50.7294, "type": "gps", "timestamp": 865.8, "longitude": 3.625275}, {"altitude": 47.72727272727273, "latitude": 50.72943, "type": "gps", "timestamp": 871.801, "longitude": 3.625417}, {"altitude": 48.27272727272727, "latitude": 50.72945, "type": "gps", "timestamp": 877.801, "longitude": 3.625562}, {"altitude": 48.81818181818182, "latitude": 50.729473, "type": "gps", "timestamp": 883.801, "longitude": 3.625696}, {"altitude": 49.45454545454545, "latitude": 50.729492, "type": "gps", "timestamp": 889.801, "longitude": 3.625821}, {"altitude": 50.09090909090909, "latitude": 50.729507, "type": "gps", "timestamp": 895.801, "longitude": 3.625954}, {"altitude": 50.81818181818182, "latitude": 50.729534, "type": "gps", "timestamp": 901.801, "longitude": 3.626094}, {"altitude": 51.45454545454545, "latitude": 50.729546, "type": "gps", "timestamp": 907.801, "longitude": 3.626226}, {"altitude": 52.09090909090909, "latitude": 50.729553, "type": "gps", "timestamp": 913.801, "longitude": 3.62636}, {"altitude": 52.63636363636363, "latitude": 50.729595, "type": "gps", "timestamp": 920.801, "longitude": 3.626479}, {"altitude": 53.27272727272727, "latitude": 50.729664, "type": "gps", "timestamp": 927.801, "longitude": 3.626577}, {"altitude": 53.90909090909091, "latitude": 50.729736, "type": "gps", "timestamp": 933.801, "longitude": 3.626642}, {"altitude": 54.54545454545455, "latitude": 50.72982, "type": "gps", "timestamp": 939.801, "longitude": 3.626681}, {"altitude": 55.18181818181818, "latitude": 50.729893, "type": "gps", "timestamp": 945.8, "longitude": 3.626738}, {"altitude": 55.72727272727273, "latitude": 50.729958, "type": "gps", "timestamp": 951.8, "longitude": 3.626819}, {"altitude": 56.18181818181818, "latitude": 50.730022, "type": "gps", "timestamp": 957.8, "longitude": 3.62691}, {"altitude": 56.63636363636363, "latitude": 50.73008, "type": "gps", "timestamp": 963.8, "longitude": 3.627018}, {"altitude": 57, "latitude": 50.730145, "type": "gps", "timestamp": 969.8, "longitude": 3.627117}, {"altitude": 57.36363636363637, "latitude": 50.730213, "type": "gps", "timestamp": 975.8, "longitude": 3.627205}, {"altitude": 57.72727272727273, "latitude": 50.730278, "type": "gps", "timestamp": 981.8, "longitude": 3.627289}, {"altitude": 58.18181818181818, "latitude": 50.730354, "type": "gps", "timestamp": 987.8, "longitude": 3.627348}, {"altitude": 58.54545454545455, "latitude": 50.730434, "type": "gps", "timestamp": 993.8, "longitude": 3.627412}, {"altitude": 58.81818181818182, "latitude": 50.73052, "type": "gps", "timestamp": 999.8, "longitude": 3.627474}, {"altitude": 59.18181818181818, "latitude": 50.730602, "type": "gps", "timestamp": 1005.8, "longitude": 3.627536}, {"altitude": 59.45454545454545, "latitude": 50.730682, "type": "gps", "timestamp": 1011.8, "longitude": 3.627583}, {"altitude": 59.72727272727273, "latitude": 50.730766, "type": "gps", "timestamp": 1017.8, "longitude": 3.627647}, {"altitude": 60.09090909090909, "latitude": 50.730843, "type": "gps", "timestamp": 1023.8, "longitude": 3.627715}, {"altitude": 60.36363636363637, "latitude": 50.73092, "type": "gps", "timestamp": 1029.8, "longitude": 3.627787}, {"altitude": 60.72727272727273, "latitude": 50.730995, "type": "gps", "timestamp": 1035.8, "longitude": 3.62785}, {"altitude": 61.09090909090909, "latitude": 50.73107, "type": "gps", "timestamp": 1041.8, "longitude": 3.627922}, {"altitude": 61.36363636363637, "latitude": 50.731144, "type": "gps", "timestamp": 1047.8, "longitude": 3.627983}, {"altitude": 61.54545454545455, "latitude": 50.731224, "type": "gps", "timestamp": 1053.8, "longitude": 3.62805}, {"altitude": 61.72727272727273, "latitude": 50.7313, "type": "gps", "timestamp": 1059.8, "longitude": 3.628117}, {"altitude": 61.90909090909091, "latitude": 50.73138, "type": "gps", "timestamp": 1065.8, "longitude": 3.628182}, {"altitude": 62.09090909090909, "latitude": 50.731453, "type": "gps", "timestamp": 1071.8, "longitude": 3.62825}, {"altitude": 62.36363636363637, "latitude": 50.731537, "type": "gps", "timestamp": 1078.8, "longitude": 3.628306}, {"altitude": 62.72727272727273, "latitude": 50.731613, "type": "gps", "timestamp": 1084.8, "longitude": 3.628367}, {"altitude": 63.09090909090909, "latitude": 50.73169, "type": "gps", "timestamp": 1090.8, "longitude": 3.628424}, {"altitude": 63.54545454545455, "latitude": 50.731766, "type": "gps", "timestamp": 1096.8, "longitude": 3.628483}, {"altitude": 64.0909090909091, "latitude": 50.731842, "type": "gps", "timestamp": 1102.8, "longitude": 3.628541}, {"altitude": 64.72727272727273, "latitude": 50.73191, "type": "gps", "timestamp": 1108.8, "longitude": 3.62861}, {"altitude": 65.54545454545455, "latitude": 50.731987, "type": "gps", "timestamp": 1114.8, "longitude": 3.628673}, {"altitude": 66.45454545454545, "latitude": 50.73207, "type": "gps", "timestamp": 1120.8, "longitude": 3.628731}, {"altitude": 67.45454545454545, "latitude": 50.73215, "type": "gps", "timestamp": 1126.8, "longitude": 3.628793}, {"altitude": 68.54545454545455, "latitude": 50.73222, "type": "gps", "timestamp": 1132.8, "longitude": 3.628882}, {"altitude": 69.63636363636364, "latitude": 50.732292, "type": "gps", "timestamp": 1138.8, "longitude": 3.628968}, {"altitude": 70.72727272727273, "latitude": 50.73236, "type": "gps", "timestamp": 1144.8, "longitude": 3.629042}, {"altitude": 71.81818181818181, "latitude": 50.73243, "type": "gps", "timestamp": 1150.8, "longitude": 3.629122}, {"altitude": 72.9090909090909, "latitude": 50.732506, "type": "gps", "timestamp": 1156.8, "longitude": 3.629192}, {"altitude": 74.18181818181819, "latitude": 50.73258, "type": "gps", "timestamp": 1162.8, "longitude": 3.629269}, {"altitude": 75.45454545454545, "latitude": 50.73267, "type": "gps", "timestamp": 1166.8, "longitude": 3.629359}, {"altitude": 76.63636363636364, "latitude": 50.73275, "type": "gps", "timestamp": 1169.8, "longitude": 3.629413}, {"altitude": 77.81818181818181, "latitude": 50.732834, "type": "gps", "timestamp": 1172.8, "longitude": 3.629464}, {"altitude": 79.0909090909091, "latitude": 50.732914, "type": "gps", "timestamp": 1175.8, "longitude": 3.629521}, {"altitude": 80.36363636363636, "latitude": 50.732925, "type": "gps", "timestamp": 1179.8, "longitude": 3.629662}, {"altitude": 81.54545454545455, "latitude": 50.73284, "type": "gps", "timestamp": 1183.8, "longitude": 3.629772}, {"altitude": 82.72727272727273, "latitude": 50.732773, "type": "gps", "timestamp": 1186.8, "longitude": 3.629851}, {"altitude": 83.9090909090909, "latitude": 50.732708, "type": "gps", "timestamp": 1189.8, "longitude": 3.629934}, {"altitude": 85.0909090909091, "latitude": 50.732628, "type": "gps", "timestamp": 1193.8, "longitude": 3.630046}, {"altitude": 86.18181818181819, "latitude": 50.732567, "type": "gps", "timestamp": 1196.8, "longitude": 3.630134}, {"altitude": 87.0909090909091, "latitude": 50.732483, "type": "gps", "timestamp": 1200.8, "longitude": 3.63023}, {"altitude": 87.81818181818181, "latitude": 50.732407, "type": "gps", "timestamp": 1204.8, "longitude": 3.630331}, {"altitude": 88.63636363636364, "latitude": 50.732334, "type": "gps", "timestamp": 1208.8, "longitude": 3.630429}, {"altitude": 89.45454545454545, "latitude": 50.732258, "type": "gps", "timestamp": 1212.8, "longitude": 3.630526}, {"altitude": 90.36363636363636, "latitude": 50.732178, "type": "gps", "timestamp": 1219.8, "longitude": 3.630594}, {"altitude": 91.36363636363636, "latitude": 50.732113, "type": "gps", "timestamp": 1226.8, "longitude": 3.63069}, {"altitude": 92.45454545454545, "latitude": 50.73203, "type": "gps", "timestamp": 1233.8, "longitude": 3.630746}, {"altitude": 93.54545454545455, "latitude": 50.731953, "type": "gps", "timestamp": 1239.8, "longitude": 3.63082}, {"altitude": 94.54545454545455, "latitude": 50.731884, "type": "gps", "timestamp": 1245.8, "longitude": 3.6309}, {"altitude": 95.54545454545455, "latitude": 50.731827, "type": "gps", "timestamp": 1251.8, "longitude": 3.630996}, {"altitude": 96.54545454545455, "latitude": 50.73179, "type": "gps", "timestamp": 1257.8, "longitude": 3.631113}, {"altitude": 97.45454545454545, "latitude": 50.73175, "type": "gps", "timestamp": 1264.8, "longitude": 3.631241}, {"altitude": 98.36363636363636, "latitude": 50.73171, "type": "gps", "timestamp": 1271.8, "longitude": 3.631373}, {"altitude": 99.0909090909091, "latitude": 50.731663, "type": "gps", "timestamp": 1277.8, "longitude": 3.631483}, {"altitude": 99.72727272727273, "latitude": 50.73162, "type": "gps", "timestamp": 1283.8, "longitude": 3.631611}, {"altitude": 100.18181818181819, "latitude": 50.731586, "type": "gps", "timestamp": 1289.8, "longitude": 3.631738}, {"altitude": 100.45454545454545, "latitude": 50.731544, "type": "gps", "timestamp": 1295.8, "longitude": 3.63186}, {"altitude": 100.72727272727273, "latitude": 50.731506, "type": "gps", "timestamp": 1301.8, "longitude": 3.631987}, {"altitude": 100.9090909090909, "latitude": 50.731472, "type": "gps", "timestamp": 1307.8, "longitude": 3.632109}, {"altitude": 101.0909090909091, "latitude": 50.73144, "type": "gps", "timestamp": 1313.8, "longitude": 3.632234}, {"altitude": 101.27272727272727, "latitude": 50.73143, "type": "gps", "timestamp": 1319.8, "longitude": 3.632401}, {"altitude": 101.45454545454545, "latitude": 50.73139, "type": "gps", "timestamp": 1323.8, "longitude": 3.632553}, {"altitude": 101.63636363636364, "latitude": 50.73136, "type": "gps", "timestamp": 1326.8, "longitude": 3.632676}, {"altitude": 101.81818181818181, "latitude": 50.731335, "type": "gps", "timestamp": 1329.8, "longitude": 3.632806}, {"altitude": 102.0909090909091, "latitude": 50.731308, "type": "gps", "timestamp": 1332.8, "longitude": 3.632938}, {"altitude": 102.36363636363636, "latitude": 50.73128, "type": "gps", "timestamp": 1335.8, "longitude": 3.633075}, {"altitude": 102.54545454545455, "latitude": 50.73126, "type": "gps", "timestamp": 1338.8, "longitude": 3.633206}, {"altitude": 102.72727272727273, "latitude": 50.73123, "type": "gps", "timestamp": 1341.8, "longitude": 3.633336}, {"altitude": 102.81818181818181, "latitude": 50.73121, "type": "gps", "timestamp": 1344.8, "longitude": 3.633463}, {"altitude": 102.9090909090909, "latitude": 50.731174, "type": "gps", "timestamp": 1347.8, "longitude": 3.633587}, {"altitude": 103, "latitude": 50.731136, "type": "gps", "timestamp": 1350.8, "longitude": 3.63371}, {"altitude": 103, "latitude": 50.731117, "type": "gps", "timestamp": 1353.8, "longitude": 3.633846}, {"altitude": 103, "latitude": 50.731133, "type": "gps", "timestamp": 1356.8, "longitude": 3.633978}, {"altitude": 103, "latitude": 50.731174, "type": "gps", "timestamp": 1359.8, "longitude": 3.634107}, {"altitude": 103.0909090909091, "latitude": 50.731216, "type": "gps", "timestamp": 1362.8, "longitude": 3.634242}, {"altitude": 103.18181818181819, "latitude": 50.73124, "type": "gps", "timestamp": 1366.8, "longitude": 3.634381}, {"altitude": 103.27272727272727, "latitude": 50.731277, "type": "gps", "timestamp": 1372.8, "longitude": 3.634496}, {"altitude": 103.36363636363636, "latitude": 50.731304, "type": "gps", "timestamp": 1378.8, "longitude": 3.634627}, {"altitude": 103.45454545454545, "latitude": 50.731335, "type": "gps", "timestamp": 1384.8, "longitude": 3.634748}, {"altitude": 103.54545454545455, "latitude": 50.73137, "type": "gps", "timestamp": 1390.8, "longitude": 3.63488}, {"altitude": 103.63636363636364, "latitude": 50.731407, "type": "gps", "timestamp": 1396.8, "longitude": 3.635008}, {"altitude": 103.72727272727273, "latitude": 50.73144, "type": "gps", "timestamp": 1402.8, "longitude": 3.635135}, {"altitude": 103.81818181818181, "latitude": 50.731506, "type": "gps", "timestamp": 1428.799, "longitude": 3.635221}, {"altitude": 103.9090909090909, "latitude": 50.73157, "type": "gps", "timestamp": 1436.799, "longitude": 3.635136}, {"altitude": 103.9090909090909, "latitude": 50.73163, "type": "gps", "timestamp": 1442.799, "longitude": 3.635026}, {"altitude": 103.9090909090909, "latitude": 50.731697, "type": "gps", "timestamp": 1447.799, "longitude": 3.634927}, {"altitude": 103.9090909090909, "latitude": 50.731667, "type": "gps", "timestamp": 1462.799, "longitude": 3.634787}, {"altitude": 103.9090909090909, "latitude": 50.73163, "type": "gps", "timestamp": 1466.799, "longitude": 3.634622}, {"altitude": 103.9090909090909, "latitude": 50.731544, "type": "gps", "timestamp": 1468.799, "longitude": 3.634579}, {"altitude": 103.9090909090909, "latitude": 50.731525, "type": "gps", "timestamp": 1471.799, "longitude": 3.63445}, {"altitude": 103.9090909090909, "latitude": 50.73162, "type": "gps", "timestamp": 1473.799, "longitude": 3.634357}, {"altitude": 103.9, "latitude": 50.731743, "type": "gps", "timestamp": 1474.799, "longitude": 3.634388}, {"altitude": 103.88888888888889, "latitude": 50.731705, "type": "gps", "timestamp": 1475.799, "longitude": 3.634571}, {"altitude": 103.875, "latitude": 50.73169, "type": "gps", "timestamp": 1481.799, "longitude": 3.6347}, {"altitude": 103.85714285714286, "latitude": 50.731606, "type": "gps", "timestamp": 1552.799, "longitude": 3.634748}, {"altitude": 104, "latitude": 50.731678, "type": "end", "timestamp": 1579.192, "longitude": 3.634734}], "nearest_teammate_nutrition": ["/nearestMeasurement/NUTRITION/65346046/1781792183499", "/nearestMeasurement/NUTRITION/82586302/1781792183499"], "nearest_teammate_diabetes": ["/nearestMeasurement/DIABETES/65346046/1781792183499", "/nearestMeasurement/DIABETES/82586302/1781792183499"], "share": "Friends", "nearest_general_measurement": "/nearestMeasurement/GENERAL/82586302/1781792183499", "nearest_diabetes": "/nearestMeasurement/DIABETES/82586302/1781792183499", "active_duration": 1579, "nearest_weight": "/nearestMeasurement/WEIGHT/82586302/1781792183499", "images": [], "comments": "/fitnessActivities/2587048175/comments", "nearest_teammate_weight": ["/nearestMeasurement/WEIGHT/65346046/1781792183499", "/nearestMeasurement/WEIGHT/82586302/1781792183499"], "previous": "/prevFitnessActivity/82586302/1781792183499", "total_calories": 306, "nearest_strength_training_activity": "/nearestStrengthTrainingActivity/82586302/1781792183499", "nearest_teammate_strength_training_activities": ["/nearestStrengthTrainingActivity/65346046/1781792183499", "/nearestStrengthTrainingActivity/82586302/1781792183499"], "equipment": "None", "heart_rate": [], "nearest_sleep": "/nearestMeasurement/SLEEP/82586302/1781792183499", "calories": [], "elapsed_duration": 1579.192, "uri": "/fitnessActivities/2587048175", "start_time": "Thu, 18 Jun 2026 14:16:23", "nearest_background_activity": "/nearestMeasurement/BACKGROUND_ACTIVITY/82586302/1781792183499", "nearest_teammate_general_measurements": ["/nearestMeasurement/GENERAL/65346046/1781792183499", "/nearestMeasurement/GENERAL/82586302/1781792183499"], "tracking_mode": "outdoor", "is_live": false, "entry_type": "GPS", "nearest_teammate_fitness_activities": ["/nearestFitnessActivity/65346046/1781792183499", "/nearestFitnessActivity/82586302/1781792183499"], "public_url": "https://runkeeper.com/user/3807896692/activity/2587048175", "start_time_ISO": "2026-06-18T14:16:23+02:00", "start_date_ISO": "2026-06-18", "duration_seconds": 1579, "total_distance_mi": "2.52", "total_distance_km": "4.06", "total_distance_m": 4055.73537661761}, "id": "/fitnessActivities/2587048175"}
+
+path: altitude: 104
+latitude: 50.731724
+longitude: 3.634865
+timestamp: 0
+type: start
+
+altitude: 104
+latitude: 50.731686
+longitude: 3.634981
+timestamp: 7.803
+type: gps
+
+altitude: 103.875
+latitude: 50.731617
+longitude: 3.635063
+timestamp: 13.803
+type: gps
+
+altitude: 103.77777777777777
+latitude: 50.731556
+longitude: 3.635165
+timestamp: 20.803
+type: gps
+
+altitude: 103.7
+latitude: 50.73148
+longitude: 3.635227
+timestamp: 28.803
+type: gps
+
+altitude: 103.63636363636364
+latitude: 50.731453
+longitude: 3.635102
+timestamp: 32.803
+type: gps
+
+altitude: 103.54545454545455
+latitude: 50.731415
+longitude: 3.634966
+timestamp: 34.803
+type: gps
+
+altitude: 103.45454545454545
+latitude: 50.731377
+longitude: 3.634822
+timestamp: 36.803
+type: gps
+
+altitude: 103.36363636363636
+latitude: 50.73134
+longitude: 3.634697
+timestamp: 38.803
+type: gps
+
+altitude: 103.27272727272727
+latitude: 50.7313
+longitude: 3.63457
+timestamp: 40.803
+type: gps
+
+altitude: 103.18181818181819
+latitude: 50.731255
+longitude: 3.634431
+timestamp: 42.803
+type: gps
+
+altitude: 103.18181818181819
+latitude: 50.73121
+longitude: 3.634307
+timestamp: 44.803
+type: gps
+
+altitude: 103.0909090909091
+latitude: 50.73116
+longitude: 3.634188
+timestamp: 46.803
+type: gps
+
+altitude: 103.0909090909091
+latitude: 50.731075
+longitude: 3.634138
+timestamp: 48.803
+type: gps
+
+altitude: 103
+latitude: 50.73102
+longitude: 3.634257
+timestamp: 50.803
+type: gps
+
+altitude: 102.9090909090909
+latitude: 50.731
+longitude: 3.634387
+timestamp: 52.803
+type: gps
+
+altitude: 102.81818181818181
+latitude: 50.730976
+longitude: 3.634517
+timestamp: 54.803
+type: gps
+
+altitude: 102.72727272727273
+latitude: 50.73095
+longitude: 3.634646
+timestamp: 56.803
+type: gps
+
+altitude: 102.72727272727273
+latitude: 50.730915
+longitude: 3.634767
+timestamp: 58.803
+type: gps
+
+altitude: 102.72727272727273
+latitude: 50.73086
+longitude: 3.634935
+timestamp: 61.803
+type: gps
+
+altitude: 102.72727272727273
+latitude: 50.730804
+longitude: 3.635085
+timestamp: 64.803
+type: gps
+
+altitude: 102.72727272727273
+latitude: 50.73075
+longitude: 3.635244
+timestamp: 67.803
+type: gps
+
+altitude: 102.63636363636364
+latitude: 50.7307
+longitude: 3.635403
+timestamp: 70.803
+type: gps
+
+altitude: 102.63636363636364
+latitude: 50.73065
+longitude: 3.635569
+timestamp: 73.803
+type: gps
+
+altitude: 102.63636363636364
+latitude: 50.730606
+longitude: 3.63574
+timestamp: 76.803
+type: gps
+
+altitude: 102.81818181818181
+latitude: 50.73056
+longitude: 3.635911
+timestamp: 79.803
+type: gps
+
+altitude: 103
+latitude: 50.730522
+longitude: 3.636068
+timestamp: 82.803
+type: gps
+
+altitude: 103.18181818181819
+latitude: 50.73048
+longitude: 3.63622
+timestamp: 85.803
+type: gps
+
+altitude: 103.36363636363636
+latitude: 50.73043
+longitude: 3.636377
+timestamp: 88.803
+type: gps
+
+altitude: 103.54545454545455
+latitude: 50.730373
+longitude: 3.636523
+timestamp: 91.803
+type: gps
+
+altitude: 103.72727272727273
+latitude: 50.730316
+longitude: 3.636678
+timestamp: 94.803
+type: gps
+
+altitude: 103.9090909090909
+latitude: 50.730267
+longitude: 3.636823
+timestamp: 97.803
+type: gps
+
+altitude: 104.18181818181819
+latitude: 50.730213
+longitude: 3.636957
+timestamp: 100.803
+type: gps
+
+altitude: 104.45454545454545
+latitude: 50.730156
+longitude: 3.637102
+timestamp: 103.803
+type: gps
+
+altitude: 104.72727272727273
+latitude: 50.7301
+longitude: 3.637246
+timestamp: 106.803
+type: gps
+
+altitude: 105
+latitude: 50.730038
+longitude: 3.637393
+timestamp: 109.803
+type: gps
+
+altitude: 105.27272727272727
+latitude: 50.729973
+longitude: 3.637534
+timestamp: 112.803
+type: gps
+
+altitude: 105.54545454545455
+latitude: 50.7299
+longitude: 3.637663
+timestamp: 115.803
+type: gps
+
+altitude: 105.81818181818181
+latitude: 50.72982
+longitude: 3.637785
+timestamp: 118.803
+type: gps
+
+altitude: 106.0909090909091
+latitude: 50.729725
+longitude: 3.637873
+timestamp: 121.803
+type: gps
+
+altitude: 106.18181818181819
+latitude: 50.729614
+longitude: 3.63793
+timestamp: 124.803
+type: gps
+
+altitude: 106.27272727272727
+latitude: 50.7295
+longitude: 3.637991
+timestamp: 127.803
+type: gps
+
+altitude: 106.36363636363636
+latitude: 50.729385
+longitude: 3.638042
+timestamp: 130.803
+type: gps
+
+altitude: 106.36363636363636
+latitude: 50.72928
+longitude: 3.638109
+timestamp: 133.803
+type: gps
+
+altitude: 106.36363636363636
+latitude: 50.72917
+longitude: 3.638162
+timestamp: 136.804
+type: gps
+
+altitude: 106.27272727272727
+latitude: 50.729073
+longitude: 3.638224
+timestamp: 139.804
+type: gps
+
+altitude: 106.18181818181819
+latitude: 50.72897
+longitude: 3.638279
+timestamp: 142.803
+type: gps
+
+altitude: 106
+latitude: 50.728874
+longitude: 3.638336
+timestamp: 145.803
+type: gps
+
+altitude: 105.81818181818181
+latitude: 50.728775
+longitude: 3.638383
+timestamp: 148.803
+type: gps
+
+altitude: 105.63636363636364
+latitude: 50.728687
+longitude: 3.638444
+timestamp: 151.803
+type: gps
+
+altitude: 105.45454545454545
+latitude: 50.728603
+longitude: 3.638527
+timestamp: 154.803
+type: gps
+
+altitude: 105.45454545454545
+latitude: 50.728523
+longitude: 3.638612
+timestamp: 157.803
+type: gps
+
+altitude: 105.45454545454545
+latitude: 50.72845
+longitude: 3.638712
+timestamp: 160.803
+type: gps
+
+altitude: 105.54545454545455
+latitude: 50.728382
+longitude: 3.638815
+timestamp: 163.803
+type: gps
+
+altitude: 105.63636363636364
+latitude: 50.728313
+longitude: 3.638914
+timestamp: 166.803
+type: gps
+
+altitude: 105.72727272727273
+latitude: 50.728245
+longitude: 3.639027
+timestamp: 169.803
+type: gps
+
+altitude: 105.9090909090909
+latitude: 50.728176
+longitude: 3.639135
+timestamp: 172.803
+type: gps
+
+altitude: 106.0909090909091
+latitude: 50.72811
+longitude: 3.639244
+timestamp: 175.803
+type: gps
+
+altitude: 106.27272727272727
+latitude: 50.728035
+longitude: 3.639346
+timestamp: 178.803
+type: gps
+
+altitude: 106.54545454545455
+latitude: 50.72796
+longitude: 3.639439
+timestamp: 181.803
+type: gps
+
+altitude: 106.81818181818181
+latitude: 50.727882
+longitude: 3.639528
+timestamp: 184.803
+type: gps
+
+altitude: 107.0909090909091
+latitude: 50.727802
+longitude: 3.639611
+timestamp: 187.803
+type: gps
+
+altitude: 107.27272727272727
+latitude: 50.72772
+longitude: 3.639698
+timestamp: 190.803
+type: gps
+
+altitude: 107.45454545454545
+latitude: 50.72763
+longitude: 3.639779
+timestamp: 193.803
+type: gps
+
+altitude: 107.63636363636364
+latitude: 50.727554
+longitude: 3.639875
+timestamp: 196.803
+type: gps
+
+altitude: 107.81818181818181
+latitude: 50.727486
+longitude: 3.639977
+timestamp: 199.803
+type: gps
+
+altitude: 107.9090909090909
+latitude: 50.727425
+longitude: 3.640094
+timestamp: 202.803
+type: gps
+
+altitude: 108
+latitude: 50.72737
+longitude: 3.640219
+timestamp: 205.803
+type: gps
+
+altitude: 108
+latitude: 50.72732
+longitude: 3.640337
+timestamp: 208.803
+type: gps
+
+altitude: 108
+latitude: 50.727264
+longitude: 3.640447
+timestamp: 211.803
+type: gps
+
+altitude: 107.81818181818181
+latitude: 50.727215
+longitude: 3.64056
+timestamp: 214.803
+type: gps
+
+altitude: 107.63636363636364
+latitude: 50.72716
+longitude: 3.640668
+timestamp: 217.803
+type: gps
+
+altitude: 107.36363636363636
+latitude: 50.727108
+longitude: 3.640781
+timestamp: 220.803
+type: gps
+
+altitude: 107.0909090909091
+latitude: 50.72705
+longitude: 3.64089
+timestamp: 223.802
+type: gps
+
+altitude: 106.72727272727273
+latitude: 50.726994
+longitude: 3.641
+timestamp: 226.803
+type: gps
+
+altitude: 106.27272727272727
+latitude: 50.726933
+longitude: 3.641107
+timestamp: 229.803
+type: gps
+
+altitude: 105.72727272727273
+latitude: 50.726856
+longitude: 3.641193
+timestamp: 232.803
+type: gps
+
+altitude: 105.27272727272727
+latitude: 50.726765
+longitude: 3.641238
+timestamp: 235.803
+type: gps
+
+altitude: 104.81818181818181
+latitude: 50.72667
+longitude: 3.641229
+timestamp: 238.803
+type: gps
+
+altitude: 104.45454545454545
+latitude: 50.72658
+longitude: 3.641198
+timestamp: 241.803
+type: gps
+
+altitude: 104.0909090909091
+latitude: 50.72649
+longitude: 3.641165
+timestamp: 244.803
+type: gps
+
+altitude: 103.9090909090909
+latitude: 50.7264
+longitude: 3.641124
+timestamp: 247.803
+type: gps
+
+altitude: 103.81818181818181
+latitude: 50.726307
+longitude: 3.641076
+timestamp: 250.803
+type: gps
+
+altitude: 103.81818181818181
+latitude: 50.726215
+longitude: 3.641014
+timestamp: 253.802
+type: gps
+
+altitude: 103.81818181818181
+latitude: 50.726124
+longitude: 3.640968
+timestamp: 256.803
+type: gps
+
+altitude: 104
+latitude: 50.72604
+longitude: 3.640911
+timestamp: 259.803
+type: gps
+
+altitude: 104.18181818181819
+latitude: 50.72595
+longitude: 3.640861
+timestamp: 262.803
+type: gps
+
+altitude: 104.54545454545455
+latitude: 50.725864
+longitude: 3.640796
+timestamp: 265.803
+type: gps
+
+altitude: 105
+latitude: 50.725784
+longitude: 3.640729
+timestamp: 268.803
+type: gps
+
+altitude: 105.45454545454545
+latitude: 50.725697
+longitude: 3.640667
+timestamp: 272.803
+type: gps
+
+altitude: 105.9090909090909
+latitude: 50.72561
+longitude: 3.640616
+timestamp: 276.803
+type: gps
+
+altitude: 106.45454545454545
+latitude: 50.725513
+longitude: 3.640587
+timestamp: 280.803
+type: gps
+
+altitude: 106.9090909090909
+latitude: 50.725407
+longitude: 3.640577
+timestamp: 284.803
+type: gps
+
+altitude: 107.27272727272727
+latitude: 50.725315
+longitude: 3.640578
+timestamp: 287.803
+type: gps
+
+altitude: 107.72727272727273
+latitude: 50.725227
+longitude: 3.640569
+timestamp: 290.803
+type: gps
+
+altitude: 108.18181818181819
+latitude: 50.725136
+longitude: 3.64054
+timestamp: 293.803
+type: gps
+
+altitude: 108.63636363636364
+latitude: 50.725048
+longitude: 3.640514
+timestamp: 296.803
+type: gps
+
+altitude: 109.0909090909091
+latitude: 50.72495
+longitude: 3.640447
+timestamp: 300.802
+type: gps
+
+altitude: 109.54545454545455
+latitude: 50.724865
+longitude: 3.640431
+timestamp: 303.802
+type: gps
+
+altitude: 109.9090909090909
+latitude: 50.724785
+longitude: 3.640416
+timestamp: 306.802
+type: gps
+
+altitude: 110.27272727272727
+latitude: 50.7247
+longitude: 3.640395
+timestamp: 309.802
+type: gps
+
+altitude: 110.63636363636364
+latitude: 50.72462
+longitude: 3.640387
+timestamp: 312.802
+type: gps
+
+altitude: 110.9090909090909
+latitude: 50.724514
+longitude: 3.640362
+timestamp: 316.802
+type: gps
+
+altitude: 111.18181818181819
+latitude: 50.724426
+longitude: 3.640354
+timestamp: 320.802
+type: gps
+
+altitude: 111.54545454545455
+latitude: 50.72434
+longitude: 3.640369
+timestamp: 324.802
+type: gps
+
+altitude: 111.81818181818181
+latitude: 50.724243
+longitude: 3.640383
+timestamp: 328.802
+type: gps
+
+altitude: 112.18181818181819
+latitude: 50.724144
+longitude: 3.640407
+timestamp: 332.802
+type: gps
+
+altitude: 112.54545454545455
+latitude: 50.72405
+longitude: 3.640434
+timestamp: 336.802
+type: gps
+
+altitude: 112.81818181818181
+latitude: 50.723938
+longitude: 3.640451
+timestamp: 340.802
+type: gps
+
+altitude: 113
+latitude: 50.723854
+longitude: 3.640447
+timestamp: 343.802
+type: gps
+
+altitude: 113.0909090909091
+latitude: 50.723766
+longitude: 3.640444
+timestamp: 346.802
+type: gps
+
+altitude: 113.18181818181819
+latitude: 50.723682
+longitude: 3.640435
+timestamp: 349.802
+type: gps
+
+altitude: 113.36363636363636
+latitude: 50.723595
+longitude: 3.640422
+timestamp: 352.802
+type: gps
+
+altitude: 113.54545454545455
+latitude: 50.723507
+longitude: 3.64039
+timestamp: 355.802
+type: gps
+
+altitude: 113.72727272727273
+latitude: 50.723427
+longitude: 3.640359
+timestamp: 358.801
+type: gps
+
+altitude: 113.9090909090909
+latitude: 50.723343
+longitude: 3.640314
+timestamp: 361.802
+type: gps
+
+altitude: 114.18181818181819
+latitude: 50.723255
+longitude: 3.640312
+timestamp: 364.802
+type: gps
+
+altitude: 114.36363636363636
+latitude: 50.723167
+longitude: 3.640289
+timestamp: 367.802
+type: gps
+
+altitude: 114.54545454545455
+latitude: 50.72308
+longitude: 3.64027
+timestamp: 370.802
+type: gps
+
+altitude: 114.81818181818181
+latitude: 50.722992
+longitude: 3.640249
+timestamp: 373.802
+type: gps
+
+altitude: 115.0909090909091
+latitude: 50.722904
+longitude: 3.640223
+timestamp: 376.802
+type: gps
+
+altitude: 115.45454545454545
+latitude: 50.72282
+longitude: 3.640191
+timestamp: 379.802
+type: gps
+
+altitude: 115.72727272727273
+latitude: 50.722736
+longitude: 3.640161
+timestamp: 382.802
+type: gps
+
+altitude: 115.9090909090909
+latitude: 50.72265
+longitude: 3.640138
+timestamp: 385.802
+type: gps
+
+altitude: 116.0909090909091
+latitude: 50.72256
+longitude: 3.640118
+timestamp: 388.802
+type: gps
+
+altitude: 116.27272727272727
+latitude: 50.722485
+longitude: 3.640015
+timestamp: 392.802
+type: gps
+
+altitude: 116.36363636363636
+latitude: 50.72251
+longitude: 3.639873
+timestamp: 395.802
+type: gps
+
+altitude: 116.36363636363636
+latitude: 50.722534
+longitude: 3.639749
+timestamp: 398.801
+type: gps
+
+altitude: 116.36363636363636
+latitude: 50.72256
+longitude: 3.639587
+timestamp: 402.802
+type: gps
+
+altitude: 116.18181818181819
+latitude: 50.722584
+longitude: 3.639425
+timestamp: 406.802
+type: gps
+
+altitude: 115.9090909090909
+latitude: 50.722603
+longitude: 3.6393
+timestamp: 409.802
+type: gps
+
+altitude: 115.54545454545455
+latitude: 50.72263
+longitude: 3.639175
+timestamp: 412.802
+type: gps
+
+altitude: 115.0909090909091
+latitude: 50.72266
+longitude: 3.639043
+timestamp: 415.802
+type: gps
+
+altitude: 114.63636363636364
+latitude: 50.722694
+longitude: 3.638918
+timestamp: 418.802
+type: gps
+
+altitude: 114.0909090909091
+latitude: 50.722733
+longitude: 3.638782
+timestamp: 421.802
+type: gps
+
+altitude: 113.45454545454545
+latitude: 50.72278
+longitude: 3.638653
+timestamp: 424.801
+type: gps
+
+altitude: 112.81818181818181
+latitude: 50.722816
+longitude: 3.63852
+timestamp: 427.802
+type: gps
+
+altitude: 112.18181818181819
+latitude: 50.722843
+longitude: 3.638377
+timestamp: 430.802
+type: gps
+
+altitude: 111.54545454545455
+latitude: 50.722862
+longitude: 3.638218
+timestamp: 433.802
+type: gps
+
+altitude: 110.9090909090909
+latitude: 50.722878
+longitude: 3.638053
+timestamp: 436.802
+type: gps
+
+altitude: 110.27272727272727
+latitude: 50.7229
+longitude: 3.637887
+timestamp: 439.802
+type: gps
+
+altitude: 109.63636363636364
+latitude: 50.72294
+longitude: 3.637721
+timestamp: 442.802
+type: gps
+
+altitude: 109
+latitude: 50.723
+longitude: 3.637579
+timestamp: 445.802
+type: gps
+
+altitude: 108.45454545454545
+latitude: 50.723057
+longitude: 3.637451
+timestamp: 448.802
+type: gps
+
+altitude: 107.9090909090909
+latitude: 50.723114
+longitude: 3.63731
+timestamp: 451.802
+type: gps
+
+altitude: 107.45454545454545
+latitude: 50.72316
+longitude: 3.637153
+timestamp: 454.802
+type: gps
+
+altitude: 107
+latitude: 50.723194
+longitude: 3.636996
+timestamp: 457.802
+type: gps
+
+altitude: 106.54545454545455
+latitude: 50.723198
+longitude: 3.636832
+timestamp: 460.801
+type: gps
+
+altitude: 106
+latitude: 50.723183
+longitude: 3.63667
+timestamp: 463.802
+type: gps
+
+altitude: 105.45454545454545
+latitude: 50.72316
+longitude: 3.636512
+timestamp: 466.802
+type: gps
+
+altitude: 104.9090909090909
+latitude: 50.723133
+longitude: 3.636364
+timestamp: 469.802
+type: gps
+
+altitude: 104.45454545454545
+latitude: 50.723095
+longitude: 3.636222
+timestamp: 472.801
+type: gps
+
+altitude: 104
+latitude: 50.723064
+longitude: 3.636076
+timestamp: 475.801
+type: gps
+
+altitude: 103.63636363636364
+latitude: 50.72303
+longitude: 3.635928
+timestamp: 478.801
+type: gps
+
+altitude: 103.18181818181819
+latitude: 50.723
+longitude: 3.635785
+timestamp: 481.801
+type: gps
+
+altitude: 102.81818181818181
+latitude: 50.72298
+longitude: 3.635637
+timestamp: 484.801
+type: gps
+
+altitude: 102.36363636363636
+latitude: 50.722977
+longitude: 3.635487
+timestamp: 487.801
+type: gps
+
+altitude: 102
+latitude: 50.72299
+longitude: 3.635341
+timestamp: 490.801
+type: gps
+
+altitude: 101.63636363636364
+latitude: 50.723015
+longitude: 3.635197
+timestamp: 493.801
+type: gps
+
+altitude: 101.27272727272727
+latitude: 50.72305
+longitude: 3.635057
+timestamp: 496.801
+type: gps
+
+altitude: 100.9090909090909
+latitude: 50.723083
+longitude: 3.634914
+timestamp: 499.801
+type: gps
+
+altitude: 100.45454545454545
+latitude: 50.72311
+longitude: 3.63477
+timestamp: 502.801
+type: gps
+
+altitude: 100
+latitude: 50.723137
+longitude: 3.634629
+timestamp: 505.801
+type: gps
+
+altitude: 99.54545454545455
+latitude: 50.723156
+longitude: 3.634483
+timestamp: 508.801
+type: gps
+
+altitude: 98.9090909090909
+latitude: 50.723175
+longitude: 3.634339
+timestamp: 511.801
+type: gps
+
+altitude: 98.27272727272727
+latitude: 50.7232
+longitude: 3.6342
+timestamp: 514.801
+type: gps
+
+altitude: 97.54545454545455
+latitude: 50.723217
+longitude: 3.634056
+timestamp: 517.801
+type: gps
+
+altitude: 96.81818181818181
+latitude: 50.72322
+longitude: 3.63391
+timestamp: 520.801
+type: gps
+
+altitude: 96
+latitude: 50.72324
+longitude: 3.633769
+timestamp: 523.801
+type: gps
+
+altitude: 95.0909090909091
+latitude: 50.723255
+longitude: 3.633618
+timestamp: 526.801
+type: gps
+
+altitude: 94.0909090909091
+latitude: 50.72328
+longitude: 3.63349
+timestamp: 529.801
+type: gps
+
+altitude: 92.9090909090909
+latitude: 50.723297
+longitude: 3.63334
+timestamp: 532.8
+type: gps
+
+altitude: 91.72727272727273
+latitude: 50.723312
+longitude: 3.633178
+timestamp: 535.801
+type: gps
+
+altitude: 90.45454545454545
+latitude: 50.723328
+longitude: 3.633018
+timestamp: 538.801
+type: gps
+
+altitude: 89
+latitude: 50.723328
+longitude: 3.632861
+timestamp: 541.801
+type: gps
+
+altitude: 87.45454545454545
+latitude: 50.723324
+longitude: 3.632699
+timestamp: 544.8
+type: gps
+
+altitude: 85.9090909090909
+latitude: 50.72333
+longitude: 3.632533
+timestamp: 547.801
+type: gps
+
+altitude: 84.36363636363636
+latitude: 50.723343
+longitude: 3.632367
+timestamp: 550.801
+type: gps
+
+altitude: 82.9090909090909
+latitude: 50.72336
+longitude: 3.632202
+timestamp: 553.801
+type: gps
+
+altitude: 81.54545454545455
+latitude: 50.723362
+longitude: 3.632025
+timestamp: 556.801
+type: gps
+
+altitude: 80.27272727272727
+latitude: 50.723377
+longitude: 3.631833
+timestamp: 559.801
+type: gps
+
+altitude: 79.0909090909091
+latitude: 50.723446
+longitude: 3.631713
+timestamp: 561.801
+type: gps
+
+altitude: 78.0909090909091
+latitude: 50.723537
+longitude: 3.631681
+timestamp: 563.801
+type: gps
+
+altitude: 77.18181818181819
+latitude: 50.72364
+longitude: 3.631683
+timestamp: 566.801
+type: gps
+
+altitude: 76.27272727272727
+latitude: 50.723747
+longitude: 3.631699
+timestamp: 569.801
+type: gps
+
+altitude: 75.45454545454545
+latitude: 50.72385
+longitude: 3.631728
+timestamp: 572.801
+type: gps
+
+altitude: 74.81818181818181
+latitude: 50.72394
+longitude: 3.631751
+timestamp: 575.801
+type: gps
+
+altitude: 74.27272727272727
+latitude: 50.724033
+longitude: 3.631783
+timestamp: 578.801
+type: gps
+
+altitude: 73.72727272727273
+latitude: 50.724125
+longitude: 3.631836
+timestamp: 581.801
+type: gps
+
+altitude: 73.0909090909091
+latitude: 50.72423
+longitude: 3.63184
+timestamp: 584.801
+type: gps
+
+altitude: 72.36363636363636
+latitude: 50.724308
+longitude: 3.631732
+timestamp: 587.801
+type: gps
+
+altitude: 71.54545454545455
+latitude: 50.724354
+longitude: 3.6316
+timestamp: 590.801
+type: gps
+
+altitude: 70.81818181818181
+latitude: 50.724384
+longitude: 3.63146
+timestamp: 593.801
+type: gps
+
+altitude: 70
+latitude: 50.724403
+longitude: 3.631331
+timestamp: 596.801
+type: gps
+
+altitude: 69.0909090909091
+latitude: 50.72443
+longitude: 3.631175
+timestamp: 600.801
+type: gps
+
+altitude: 68.27272727272727
+latitude: 50.724457
+longitude: 3.631044
+timestamp: 603.801
+type: gps
+
+altitude: 67.54545454545455
+latitude: 50.72449
+longitude: 3.630918
+timestamp: 606.801
+type: gps
+
+altitude: 66.9090909090909
+latitude: 50.72453
+longitude: 3.630793
+timestamp: 609.801
+type: gps
+
+altitude: 66.27272727272727
+latitude: 50.724575
+longitude: 3.63068
+timestamp: 612.801
+type: gps
+
+altitude: 65.72727272727273
+latitude: 50.724625
+longitude: 3.63057
+timestamp: 615.801
+type: gps
+
+altitude: 65.27272727272727
+latitude: 50.724678
+longitude: 3.630463
+timestamp: 618.801
+type: gps
+
+altitude: 64.81818181818181
+latitude: 50.724743
+longitude: 3.630358
+timestamp: 621.801
+type: gps
+
+altitude: 64.36363636363636
+latitude: 50.724804
+longitude: 3.630246
+timestamp: 624.801
+type: gps
+
+altitude: 63.81818181818182
+latitude: 50.724865
+longitude: 3.630142
+timestamp: 627.801
+type: gps
+
+altitude: 63.27272727272727
+latitude: 50.724934
+longitude: 3.630034
+timestamp: 630.801
+type: gps
+
+altitude: 62.81818181818182
+latitude: 50.725002
+longitude: 3.629938
+timestamp: 633.801
+type: gps
+
+altitude: 62.36363636363637
+latitude: 50.725075
+longitude: 3.629842
+timestamp: 636.801
+type: gps
+
+altitude: 61.90909090909091
+latitude: 50.72514
+longitude: 3.629728
+timestamp: 639.801
+type: gps
+
+altitude: 61.45454545454545
+latitude: 50.725204
+longitude: 3.629623
+timestamp: 642.801
+type: gps
+
+altitude: 61.09090909090909
+latitude: 50.72525
+longitude: 3.629493
+timestamp: 645.801
+type: gps
+
+altitude: 60.81818181818182
+latitude: 50.725307
+longitude: 3.629367
+timestamp: 648.8
+type: gps
+
+altitude: 60.54545454545455
+latitude: 50.725357
+longitude: 3.629236
+timestamp: 651.801
+type: gps
+
+altitude: 60.36363636363637
+latitude: 50.725414
+longitude: 3.629109
+timestamp: 654.801
+type: gps
+
+altitude: 60.27272727272727
+latitude: 50.725468
+longitude: 3.628984
+timestamp: 657.8
+type: gps
+
+altitude: 60.27272727272727
+latitude: 50.72552
+longitude: 3.628867
+timestamp: 660.801
+type: gps
+
+altitude: 60.45454545454545
+latitude: 50.72557
+longitude: 3.628748
+timestamp: 663.801
+type: gps
+
+altitude: 60.63636363636363
+latitude: 50.72562
+longitude: 3.628624
+timestamp: 666.801
+type: gps
+
+altitude: 60.81818181818182
+latitude: 50.725674
+longitude: 3.628503
+timestamp: 669.801
+type: gps
+
+altitude: 61.09090909090909
+latitude: 50.725716
+longitude: 3.62837
+timestamp: 672.801
+type: gps
+
+altitude: 61.27272727272727
+latitude: 50.725758
+longitude: 3.628242
+timestamp: 675.801
+type: gps
+
+altitude: 61.36363636363637
+latitude: 50.725803
+longitude: 3.62811
+timestamp: 678.801
+type: gps
+
+altitude: 61.36363636363637
+latitude: 50.725845
+longitude: 3.627973
+timestamp: 681.801
+type: gps
+
+altitude: 61.36363636363637
+latitude: 50.725887
+longitude: 3.627833
+timestamp: 684.801
+type: gps
+
+altitude: 61.27272727272727
+latitude: 50.72592
+longitude: 3.627693
+timestamp: 687.801
+type: gps
+
+altitude: 61.18181818181818
+latitude: 50.72596
+longitude: 3.627556
+timestamp: 690.801
+type: gps
+
+altitude: 61.09090909090909
+latitude: 50.72599
+longitude: 3.627413
+timestamp: 693.801
+type: gps
+
+altitude: 60.81818181818182
+latitude: 50.72603
+longitude: 3.627276
+timestamp: 696.801
+type: gps
+
+altitude: 60.54545454545455
+latitude: 50.72607
+longitude: 3.627144
+timestamp: 699.801
+type: gps
+
+altitude: 60.18181818181818
+latitude: 50.726124
+longitude: 3.627023
+timestamp: 702.801
+type: gps
+
+altitude: 59.81818181818182
+latitude: 50.726173
+longitude: 3.626907
+timestamp: 705.801
+type: gps
+
+altitude: 59.45454545454545
+latitude: 50.726223
+longitude: 3.626791
+timestamp: 708.801
+type: gps
+
+altitude: 59
+latitude: 50.72627
+longitude: 3.626667
+timestamp: 711.801
+type: gps
+
+altitude: 58.45454545454545
+latitude: 50.72632
+longitude: 3.626561
+timestamp: 714.801
+type: gps
+
+altitude: 57.81818181818182
+latitude: 50.726376
+longitude: 3.626465
+timestamp: 717.801
+type: gps
+
+altitude: 57.27272727272727
+latitude: 50.726448
+longitude: 3.626397
+timestamp: 720.8
+type: gps
+
+altitude: 56.63636363636363
+latitude: 50.72651
+longitude: 3.626312
+timestamp: 723.801
+type: gps
+
+altitude: 56
+latitude: 50.7266
+longitude: 3.626241
+timestamp: 727.801
+type: gps
+
+altitude: 55.36363636363637
+latitude: 50.72668
+longitude: 3.626198
+timestamp: 730.801
+type: gps
+
+altitude: 54.72727272727273
+latitude: 50.72676
+longitude: 3.626148
+timestamp: 733.801
+type: gps
+
+altitude: 54.18181818181818
+latitude: 50.726845
+longitude: 3.6261
+timestamp: 736.801
+type: gps
+
+altitude: 53.63636363636363
+latitude: 50.72693
+longitude: 3.626042
+timestamp: 739.801
+type: gps
+
+altitude: 53.18181818181818
+latitude: 50.727013
+longitude: 3.625996
+timestamp: 742.801
+type: gps
+
+altitude: 52.72727272727273
+latitude: 50.727097
+longitude: 3.625947
+timestamp: 745.801
+type: gps
+
+altitude: 52.27272727272727
+latitude: 50.727173
+longitude: 3.625879
+timestamp: 748.801
+type: gps
+
+altitude: 51.90909090909091
+latitude: 50.72725
+longitude: 3.62581
+timestamp: 751.801
+type: gps
+
+altitude: 51.45454545454545
+latitude: 50.727333
+longitude: 3.625745
+timestamp: 754.801
+type: gps
+
+altitude: 51.09090909090909
+latitude: 50.727406
+longitude: 3.625626
+timestamp: 757.801
+type: gps
+
+altitude: 50.72727272727273
+latitude: 50.727474
+longitude: 3.625512
+timestamp: 760.801
+type: gps
+
+altitude: 50.36363636363637
+latitude: 50.727547
+longitude: 3.625396
+timestamp: 763.801
+type: gps
+
+altitude: 50
+latitude: 50.727615
+longitude: 3.625289
+timestamp: 766.801
+type: gps
+
+altitude: 49.63636363636363
+latitude: 50.727684
+longitude: 3.625185
+timestamp: 769.801
+type: gps
+
+altitude: 49.27272727272727
+latitude: 50.72775
+longitude: 3.625074
+timestamp: 772.801
+type: gps
+
+altitude: 48.81818181818182
+latitude: 50.72781
+longitude: 3.624949
+timestamp: 775.801
+type: gps
+
+altitude: 48.45454545454545
+latitude: 50.727867
+longitude: 3.624818
+timestamp: 778.801
+type: gps
+
+altitude: 48.18181818181818
+latitude: 50.727932
+longitude: 3.624696
+timestamp: 781.801
+type: gps
+
+altitude: 47.90909090909091
+latitude: 50.727993
+longitude: 3.624577
+timestamp: 784.801
+type: gps
+
+altitude: 47.63636363636363
+latitude: 50.72806
+longitude: 3.624466
+timestamp: 787.801
+type: gps
+
+altitude: 47.36363636363637
+latitude: 50.728134
+longitude: 3.62436
+timestamp: 790.801
+type: gps
+
+altitude: 47.09090909090909
+latitude: 50.72823
+longitude: 3.624335
+timestamp: 793.801
+type: gps
+
+altitude: 46.90909090909091
+latitude: 50.72832
+longitude: 3.624359
+timestamp: 796.801
+type: gps
+
+altitude: 46.63636363636363
+latitude: 50.72841
+longitude: 3.624404
+timestamp: 799.801
+type: gps
+
+altitude: 46.36363636363637
+latitude: 50.728497
+longitude: 3.624451
+timestamp: 802.801
+type: gps
+
+altitude: 46.09090909090909
+latitude: 50.728584
+longitude: 3.624497
+timestamp: 805.801
+type: gps
+
+altitude: 45.90909090909091
+latitude: 50.728672
+longitude: 3.624543
+timestamp: 808.801
+type: gps
+
+altitude: 45.72727272727273
+latitude: 50.728756
+longitude: 3.624586
+timestamp: 811.801
+type: gps
+
+altitude: 45.54545454545455
+latitude: 50.728848
+longitude: 3.624626
+timestamp: 814.801
+type: gps
+
+altitude: 45.45454545454545
+latitude: 50.72893
+longitude: 3.624663
+timestamp: 817.801
+type: gps
+
+altitude: 45.45454545454545
+latitude: 50.729008
+longitude: 3.624712
+timestamp: 820.801
+type: gps
+
+altitude: 45.54545454545455
+latitude: 50.729095
+longitude: 3.624759
+timestamp: 824.801
+type: gps
+
+altitude: 45.63636363636363
+latitude: 50.729183
+longitude: 3.624747
+timestamp: 831.801
+type: gps
+
+altitude: 45.81818181818182
+latitude: 50.72926
+longitude: 3.624777
+timestamp: 840.801
+type: gps
+
+altitude: 46.09090909090909
+latitude: 50.729313
+longitude: 3.624896
+timestamp: 847.801
+type: gps
+
+altitude: 46.45454545454545
+latitude: 50.729343
+longitude: 3.625019
+timestamp: 853.801
+type: gps
+
+altitude: 46.81818181818182
+latitude: 50.729374
+longitude: 3.625144
+timestamp: 859.801
+type: gps
+
+altitude: 47.27272727272727
+latitude: 50.7294
+longitude: 3.625275
+timestamp: 865.8
+type: gps
+
+altitude: 47.72727272727273
+latitude: 50.72943
+longitude: 3.625417
+timestamp: 871.801
+type: gps
+
+altitude: 48.27272727272727
+latitude: 50.72945
+longitude: 3.625562
+timestamp: 877.801
+type: gps
+
+altitude: 48.81818181818182
+latitude: 50.729473
+longitude: 3.625696
+timestamp: 883.801
+type: gps
+
+altitude: 49.45454545454545
+latitude: 50.729492
+longitude: 3.625821
+timestamp: 889.801
+type: gps
+
+altitude: 50.09090909090909
+latitude: 50.729507
+longitude: 3.625954
+timestamp: 895.801
+type: gps
+
+altitude: 50.81818181818182
+latitude: 50.729534
+longitude: 3.626094
+timestamp: 901.801
+type: gps
+
+altitude: 51.45454545454545
+latitude: 50.729546
+longitude: 3.626226
+timestamp: 907.801
+type: gps
+
+altitude: 52.09090909090909
+latitude: 50.729553
+longitude: 3.62636
+timestamp: 913.801
+type: gps
+
+altitude: 52.63636363636363
+latitude: 50.729595
+longitude: 3.626479
+timestamp: 920.801
+type: gps
+
+altitude: 53.27272727272727
+latitude: 50.729664
+longitude: 3.626577
+timestamp: 927.801
+type: gps
+
+altitude: 53.90909090909091
+latitude: 50.729736
+longitude: 3.626642
+timestamp: 933.801
+type: gps
+
+altitude: 54.54545454545455
+latitude: 50.72982
+longitude: 3.626681
+timestamp: 939.801
+type: gps
+
+altitude: 55.18181818181818
+latitude: 50.729893
+longitude: 3.626738
+timestamp: 945.8
+type: gps
+
+altitude: 55.72727272727273
+latitude: 50.729958
+longitude: 3.626819
+timestamp: 951.8
+type: gps
+
+altitude: 56.18181818181818
+latitude: 50.730022
+longitude: 3.62691
+timestamp: 957.8
+type: gps
+
+altitude: 56.63636363636363
+latitude: 50.73008
+longitude: 3.627018
+timestamp: 963.8
+type: gps
+
+altitude: 57
+latitude: 50.730145
+longitude: 3.627117
+timestamp: 969.8
+type: gps
+
+altitude: 57.36363636363637
+latitude: 50.730213
+longitude: 3.627205
+timestamp: 975.8
+type: gps
+
+altitude: 57.72727272727273
+latitude: 50.730278
+longitude: 3.627289
+timestamp: 981.8
+type: gps
+
+altitude: 58.18181818181818
+latitude: 50.730354
+longitude: 3.627348
+timestamp: 987.8
+type: gps
+
+altitude: 58.54545454545455
+latitude: 50.730434
+longitude: 3.627412
+timestamp: 993.8
+type: gps
+
+altitude: 58.81818181818182
+latitude: 50.73052
+longitude: 3.627474
+timestamp: 999.8
+type: gps
+
+altitude: 59.18181818181818
+latitude: 50.730602
+longitude: 3.627536
+timestamp: 1005.8
+type: gps
+
+altitude: 59.45454545454545
+latitude: 50.730682
+longitude: 3.627583
+timestamp: 1011.8
+type: gps
+
+altitude: 59.72727272727273
+latitude: 50.730766
+longitude: 3.627647
+timestamp: 1017.8
+type: gps
+
+altitude: 60.09090909090909
+latitude: 50.730843
+longitude: 3.627715
+timestamp: 1023.8
+type: gps
+
+altitude: 60.36363636363637
+latitude: 50.73092
+longitude: 3.627787
+timestamp: 1029.8
+type: gps
+
+altitude: 60.72727272727273
+latitude: 50.730995
+longitude: 3.62785
+timestamp: 1035.8
+type: gps
+
+altitude: 61.09090909090909
+latitude: 50.73107
+longitude: 3.627922
+timestamp: 1041.8
+type: gps
+
+altitude: 61.36363636363637
+latitude: 50.731144
+longitude: 3.627983
+timestamp: 1047.8
+type: gps
+
+altitude: 61.54545454545455
+latitude: 50.731224
+longitude: 3.62805
+timestamp: 1053.8
+type: gps
+
+altitude: 61.72727272727273
+latitude: 50.7313
+longitude: 3.628117
+timestamp: 1059.8
+type: gps
+
+altitude: 61.90909090909091
+latitude: 50.73138
+longitude: 3.628182
+timestamp: 1065.8
+type: gps
+
+altitude: 62.09090909090909
+latitude: 50.731453
+longitude: 3.62825
+timestamp: 1071.8
+type: gps
+
+altitude: 62.36363636363637
+latitude: 50.731537
+longitude: 3.628306
+timestamp: 1078.8
+type: gps
+
+altitude: 62.72727272727273
+latitude: 50.731613
+longitude: 3.628367
+timestamp: 1084.8
+type: gps
+
+altitude: 63.09090909090909
+latitude: 50.73169
+longitude: 3.628424
+timestamp: 1090.8
+type: gps
+
+altitude: 63.54545454545455
+latitude: 50.731766
+longitude: 3.628483
+timestamp: 1096.8
+type: gps
+
+altitude: 64.0909090909091
+latitude: 50.731842
+longitude: 3.628541
+timestamp: 1102.8
+type: gps
+
+altitude: 64.72727272727273
+latitude: 50.73191
+longitude: 3.62861
+timestamp: 1108.8
+type: gps
+
+altitude: 65.54545454545455
+latitude: 50.731987
+longitude: 3.628673
+timestamp: 1114.8
+type: gps
+
+altitude: 66.45454545454545
+latitude: 50.73207
+longitude: 3.628731
+timestamp: 1120.8
+type: gps
+
+altitude: 67.45454545454545
+latitude: 50.73215
+longitude: 3.628793
+timestamp: 1126.8
+type: gps
+
+altitude: 68.54545454545455
+latitude: 50.73222
+longitude: 3.628882
+timestamp: 1132.8
+type: gps
+
+altitude: 69.63636363636364
+latitude: 50.732292
+longitude: 3.628968
+timestamp: 1138.8
+type: gps
+
+altitude: 70.72727272727273
+latitude: 50.73236
+longitude: 3.629042
+timestamp: 1144.8
+type: gps
+
+altitude: 71.81818181818181
+latitude: 50.73243
+longitude: 3.629122
+timestamp: 1150.8
+type: gps
+
+altitude: 72.9090909090909
+latitude: 50.732506
+longitude: 3.629192
+timestamp: 1156.8
+type: gps
+
+altitude: 74.18181818181819
+latitude: 50.73258
+longitude: 3.629269
+timestamp: 1162.8
+type: gps
+
+altitude: 75.45454545454545
+latitude: 50.73267
+longitude: 3.629359
+timestamp: 1166.8
+type: gps
+
+altitude: 76.63636363636364
+latitude: 50.73275
+longitude: 3.629413
+timestamp: 1169.8
+type: gps
+
+altitude: 77.81818181818181
+latitude: 50.732834
+longitude: 3.629464
+timestamp: 1172.8
+type: gps
+
+altitude: 79.0909090909091
+latitude: 50.732914
+longitude: 3.629521
+timestamp: 1175.8
+type: gps
+
+altitude: 80.36363636363636
+latitude: 50.732925
+longitude: 3.629662
+timestamp: 1179.8
+type: gps
+
+altitude: 81.54545454545455
+latitude: 50.73284
+longitude: 3.629772
+timestamp: 1183.8
+type: gps
+
+altitude: 82.72727272727273
+latitude: 50.732773
+longitude: 3.629851
+timestamp: 1186.8
+type: gps
+
+altitude: 83.9090909090909
+latitude: 50.732708
+longitude: 3.629934
+timestamp: 1189.8
+type: gps
+
+altitude: 85.0909090909091
+latitude: 50.732628
+longitude: 3.630046
+timestamp: 1193.8
+type: gps
+
+altitude: 86.18181818181819
+latitude: 50.732567
+longitude: 3.630134
+timestamp: 1196.8
+type: gps
+
+altitude: 87.0909090909091
+latitude: 50.732483
+longitude: 3.63023
+timestamp: 1200.8
+type: gps
+
+altitude: 87.81818181818181
+latitude: 50.732407
+longitude: 3.630331
+timestamp: 1204.8
+type: gps
+
+altitude: 88.63636363636364
+latitude: 50.732334
+longitude: 3.630429
+timestamp: 1208.8
+type: gps
+
+altitude: 89.45454545454545
+latitude: 50.732258
+longitude: 3.630526
+timestamp: 1212.8
+type: gps
+
+altitude: 90.36363636363636
+latitude: 50.732178
+longitude: 3.630594
+timestamp: 1219.8
+type: gps
+
+altitude: 91.36363636363636
+latitude: 50.732113
+longitude: 3.63069
+timestamp: 1226.8
+type: gps
+
+altitude: 92.45454545454545
+latitude: 50.73203
+longitude: 3.630746
+timestamp: 1233.8
+type: gps
+
+altitude: 93.54545454545455
+latitude: 50.731953
+longitude: 3.63082
+timestamp: 1239.8
+type: gps
+
+altitude: 94.54545454545455
+latitude: 50.731884
+longitude: 3.6309
+timestamp: 1245.8
+type: gps
+
+altitude: 95.54545454545455
+latitude: 50.731827
+longitude: 3.630996
+timestamp: 1251.8
+type: gps
+
+altitude: 96.54545454545455
+latitude: 50.73179
+longitude: 3.631113
+timestamp: 1257.8
+type: gps
+
+altitude: 97.45454545454545
+latitude: 50.73175
+longitude: 3.631241
+timestamp: 1264.8
+type: gps
+
+altitude: 98.36363636363636
+latitude: 50.73171
+longitude: 3.631373
+timestamp: 1271.8
+type: gps
+
+altitude: 99.0909090909091
+latitude: 50.731663
+longitude: 3.631483
+timestamp: 1277.8
+type: gps
+
+altitude: 99.72727272727273
+latitude: 50.73162
+longitude: 3.631611
+timestamp: 1283.8
+type: gps
+
+altitude: 100.18181818181819
+latitude: 50.731586
+longitude: 3.631738
+timestamp: 1289.8
+type: gps
+
+altitude: 100.45454545454545
+latitude: 50.731544
+longitude: 3.63186
+timestamp: 1295.8
+type: gps
+
+altitude: 100.72727272727273
+latitude: 50.731506
+longitude: 3.631987
+timestamp: 1301.8
+type: gps
+
+altitude: 100.9090909090909
+latitude: 50.731472
+longitude: 3.632109
+timestamp: 1307.8
+type: gps
+
+altitude: 101.0909090909091
+latitude: 50.73144
+longitude: 3.632234
+timestamp: 1313.8
+type: gps
+
+altitude: 101.27272727272727
+latitude: 50.73143
+longitude: 3.632401
+timestamp: 1319.8
+type: gps
+
+altitude: 101.45454545454545
+latitude: 50.73139
+longitude: 3.632553
+timestamp: 1323.8
+type: gps
+
+altitude: 101.63636363636364
+latitude: 50.73136
+longitude: 3.632676
+timestamp: 1326.8
+type: gps
+
+altitude: 101.81818181818181
+latitude: 50.731335
+longitude: 3.632806
+timestamp: 1329.8
+type: gps
+
+altitude: 102.0909090909091
+latitude: 50.731308
+longitude: 3.632938
+timestamp: 1332.8
+type: gps
+
+altitude: 102.36363636363636
+latitude: 50.73128
+longitude: 3.633075
+timestamp: 1335.8
+type: gps
+
+altitude: 102.54545454545455
+latitude: 50.73126
+longitude: 3.633206
+timestamp: 1338.8
+type: gps
+
+altitude: 102.72727272727273
+latitude: 50.73123
+longitude: 3.633336
+timestamp: 1341.8
+type: gps
+
+altitude: 102.81818181818181
+latitude: 50.73121
+longitude: 3.633463
+timestamp: 1344.8
+type: gps
+
+altitude: 102.9090909090909
+latitude: 50.731174
+longitude: 3.633587
+timestamp: 1347.8
+type: gps
+
+altitude: 103
+latitude: 50.731136
+longitude: 3.63371
+timestamp: 1350.8
+type: gps
+
+altitude: 103
+latitude: 50.731117
+longitude: 3.633846
+timestamp: 1353.8
+type: gps
+
+altitude: 103
+latitude: 50.731133
+longitude: 3.633978
+timestamp: 1356.8
+type: gps
+
+altitude: 103
+latitude: 50.731174
+longitude: 3.634107
+timestamp: 1359.8
+type: gps
+
+altitude: 103.0909090909091
+latitude: 50.731216
+longitude: 3.634242
+timestamp: 1362.8
+type: gps
+
+altitude: 103.18181818181819
+latitude: 50.73124
+longitude: 3.634381
+timestamp: 1366.8
+type: gps
+
+altitude: 103.27272727272727
+latitude: 50.731277
+longitude: 3.634496
+timestamp: 1372.8
+type: gps
+
+altitude: 103.36363636363636
+latitude: 50.731304
+longitude: 3.634627
+timestamp: 1378.8
+type: gps
+
+altitude: 103.45454545454545
+latitude: 50.731335
+longitude: 3.634748
+timestamp: 1384.8
+type: gps
+
+altitude: 103.54545454545455
+latitude: 50.73137
+longitude: 3.63488
+timestamp: 1390.8
+type: gps
+
+altitude: 103.63636363636364
+latitude: 50.731407
+longitude: 3.635008
+timestamp: 1396.8
+type: gps
+
+altitude: 103.72727272727273
+latitude: 50.73144
+longitude: 3.635135
+timestamp: 1402.8
+type: gps
+
+altitude: 103.81818181818181
+latitude: 50.731506
+longitude: 3.635221
+timestamp: 1428.799
+type: gps
+
+altitude: 103.9090909090909
+latitude: 50.73157
+longitude: 3.635136
+timestamp: 1436.799
+type: gps
+
+altitude: 103.9090909090909
+latitude: 50.73163
+longitude: 3.635026
+timestamp: 1442.799
+type: gps
+
+altitude: 103.9090909090909
+latitude: 50.731697
+longitude: 3.634927
+timestamp: 1447.799
+type: gps
+
+altitude: 103.9090909090909
+latitude: 50.731667
+longitude: 3.634787
+timestamp: 1462.799
+type: gps
+
+altitude: 103.9090909090909
+latitude: 50.73163
+longitude: 3.634622
+timestamp: 1466.799
+type: gps
+
+altitude: 103.9090909090909
+latitude: 50.731544
+longitude: 3.634579
+timestamp: 1468.799
+type: gps
+
+altitude: 103.9090909090909
+latitude: 50.731525
+longitude: 3.63445
+timestamp: 1471.799
+type: gps
+
+altitude: 103.9090909090909
+latitude: 50.73162
+longitude: 3.634357
+timestamp: 1473.799
+type: gps
+
+altitude: 103.9
+latitude: 50.731743
+longitude: 3.634388
+timestamp: 1474.799
+type: gps
+
+altitude: 103.88888888888889
+latitude: 50.731705
+longitude: 3.634571
+timestamp: 1475.799
+type: gps
+
+altitude: 103.875
+latitude: 50.73169
+longitude: 3.6347
+timestamp: 1481.799
+type: gps
+
+altitude: 103.85714285714286
+latitude: 50.731606
+longitude: 3.634748
+timestamp: 1552.799
+type: gps
+
+altitude: 104
+latitude: 50.731678
+longitude: 3.634734
+timestamp: 1579.192
+type: end
+
+
+
+
